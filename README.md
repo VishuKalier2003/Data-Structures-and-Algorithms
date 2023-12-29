@@ -6,9 +6,9 @@ This Repository contains all the Necessary ***Data Structure Problems*** practic
 
 The table provides the Questions in well-sorted fashion.
 
-| $${\color{red} S. \space No. }$$ | $${\color{red} Data \space Structure}$$ | $${\color{red}Solved}$$ | $${\color{red} Folder \space Link}$$ |
+| $${\color{red} S. \space No. }$$ | $${\color{red} Data \space Structure}$$ | $${\color{red}Solved}$$ | $${\color{red}Link}$$ |
 |-|-|-|-|
-| $${1.}$$ | $${\color{lightgreen} Binary \space Tree }$$ | $${1}$$ | |
+| $${1.}$$ | $${\color{lightgreen} Binary \space Tree }$$ | $${1}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/BinaryTree) |
 
 ## ${\color{lightblue} Maintained \space By}$
 ***Vishu Kalier***
