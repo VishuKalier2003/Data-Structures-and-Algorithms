@@ -14,6 +14,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${226.}$$ | ***Invert Binary Tree*** | $${\color{lightgreen} Easy}$$ | [Problem226](https://leetcode.com/problems/invert-binary-tree/description/) | [Hints](https://leetcode.com/problems/invert-binary-tree/solutions/4476822/invert-binary-tree-simplified/) | ***DFS*** |
 | $${257.}$$ | ***Binary Tree Paths*** | $${\color{lightgreen} Easy}$$ | [Problem257](https://leetcode.com/problems/binary-tree-paths/description/) | [Hints](https://leetcode.com/problems/binary-tree-paths/solutions/4474543/binary-tree-paths-java/) | ***DFS, Stack*** |
 
+
 ### ${\color{lightblue} Medium \space Questions}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Tree \space Concepts}$$ |
