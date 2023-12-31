@@ -6,7 +6,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 
 ## ${\color{lightblue} Question \space Folder}$
 
-### ${\color{lightblue} Easy \space Questions}$
+### ${\color{lightblue} Easy \space Questions \space - \space (10 \space Solved)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Tree \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
@@ -22,7 +22,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${671.}$$ | ***Second Minimum Node in a Binary Tree*** | $${\color{lightgreen} Easy}$$ | [Problem671](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solutions/4482373/second-minimum-node-in-binary-tree-simplified/) | ***DFS, Math Tree*** |  ***Linkedin, Uber*** |
 
 
-### ${\color{lightblue} Medium \space Questions}$
+### ${\color{lightblue} Medium \space Questions \space - \space (4 \space Solved)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Tree \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
@@ -32,7 +32,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${623.}$$ | ***Add One Row to Tree*** | $${\color{yellow} Medium}$$ | [Problem623](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Hints](https://leetcode.com/problems/add-one-row-to-tree/solutions/4478923/add-one-row-to-tree-simplified/) | ***BFS*** | ***Unknown*** |
 
 
-### ${\color{lightblue} Hard \space Questions}$
+### ${\color{lightblue} Hard \space Questions \space - \space (1 \space Solved)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Tree \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
