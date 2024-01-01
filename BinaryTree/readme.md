@@ -43,7 +43,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 |-|-|-|-|-|-|-|
 | $${297.}$$ | ***Serialize and Deserialize Binary Tree*** | $${\color{red} Hard}$$ | [Problem297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Hints](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solutions/4481784/serialize-and-deserialize-binary-tree-simplified/) | ***DFS, Queue, String*** | ***Google, Facebook, Amazon, Linkedin, Microsoft*** |
 | $${987.}$$ | ***Vertical Order Traversal*** | $${\color{red} Hard}$$ | [Problem987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/solutions/4487363/vertical-order-traversal-simplified/) | ***DFS, Class, Sorting*** | ***Facebook, Amazon*** |
-| $${1373.}$$ | ***Maximum Sum BST in Binary Tree*** | $${\color{red} Hard}$$ |  [Problem1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/) | [Hints](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4488211/maximum-sum-bst-in-binary-tree-simplified/) | ***DFS, Class*** | ***Amazon, Apple*** | 
+| $${1373.}$$ | ***Maximum Sum BST in Binary Tree*** | $${\color{red} Hard}$$ |  [Problem1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/) | [Hints](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/solutions/4488211/maximum-sum-bst-in-binary-tree-simplified/) | ***DFS, Class, Binary Search Tree*** | ***Amazon, Apple*** | 
 
 
 
