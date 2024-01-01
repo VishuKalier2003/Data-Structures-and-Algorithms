@@ -6,10 +6,10 @@ This Repository contains all the Necessary ***Data Structure Problems*** practic
 
 The table provides the Questions in well-sorted fashion.
 
-| $${\color{red} S. \space No. }$$ | $${\color{red} Data \space Structure}$$ | $${\color{red}Solved}$$ | $${\color{red}Link}$$ |
-|-|-|-|-|
-| $${1.}$$ | $${\color{lightgreen} Binary \space Tree }$$ | $${\color{lightgreen} 10 \space \color{yellow} 4 \space \color{red} 1}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/BinaryTree) |
-| $${2.}$$ | $${\color{lightgreen} Map \space and \space Set}$$ | $${\color{lightgreen} 2 \space \color{yellow} 0 \space \color{red} 0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Maps) |
+| $${\color{red} S. \space No. }$$ | $${\color{red} Data \space Structure}$$ | $${\color{red}Easy}$$ | $${\color{red}Medium}$$ | $${\color{red} Hard}$$ | $${\color{red}Link}$$ |
+|-|-|-|-|-|-|
+| $${1.}$$ | $${\color{lightgreen} Binary \space Tree }$$ | $${10}$$ | $${8}$$ | $${3}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/BinaryTree) |
+| $${2.}$$ | $${\color{lightgreen} Map \space and \space Set}$$ | $${2}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Maps) |
 
 ## ${\color{lightblue} Maintained \space By}$
-***Vishu Kalier***
+## ***Vishu Kalier***
