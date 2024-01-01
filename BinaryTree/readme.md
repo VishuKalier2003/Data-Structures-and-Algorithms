@@ -22,7 +22,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${671.}$$ | ***Second Minimum Node in a Binary Tree*** | $${\color{lightgreen} Easy}$$ | [Problem671](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solutions/4482373/second-minimum-node-in-binary-tree-simplified/) | ***DFS, Math Tree*** |  ***Linkedin, Uber*** |
 
 
-### ${\color{lightblue} Medium \space Questions \space - \space (5 \space Solved)}$
+### ${\color{lightblue} Medium \space Questions \space - \space (6 \space Solved)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Tree \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
@@ -31,6 +31,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${508.}$$ | ***Most Frequent Subtree Sum*** | $${\color{yellow} Medium}$$ | [Problem508](https://leetcode.com/problems/most-frequent-subtree-sum/description/) | [Hints](https://leetcode.com/problems/most-frequent-subtree-sum/solutions/4477223/most-frequent-subtree-sum-simplified/) | ***DFS, Two Way Recursion, Map*** | ***Amazon*** |
 | $${623.}$$ | ***Add One Row to Tree*** | $${\color{yellow} Medium}$$ | [Problem623](https://leetcode.com/problems/add-one-row-to-tree/description/) | [Hints](https://leetcode.com/problems/add-one-row-to-tree/solutions/4478923/add-one-row-to-tree-simplified/) | ***BFS*** | ***Unknown*** |
 | $${958.}$$ | ***Check Completeness of a Binary Tree*** | $${\color{yellow} Medium}$$ | [Problem958](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/check-completeness-of-a-binary-tree/solutions/4484463/check-completeness-of-a-binary-tree-simplified/) | ***BFS, DFS, Queue, Two Way Recursion*** | ***Google, Amazon, Apple, Microsoft*** |
+| $${1145.}$$ | ***Binary Tree Colring Game*** | $${\color{yellow} Medium}$$ | [Problem1145](https://leetcode.com/problems/binary-tree-coloring-game/description/) | [Hints](https://leetcode.com/problems/binary-tree-coloring-game/solutions/4486484/binary-tree-coloring-game-simplified/) | ***DFS, BFS, Greedy, Two Way Recursion*** | ***Google*** |
 
 
 ### ${\color{lightblue} Hard \space Questions \space - \space (1 \space Solved)}$
