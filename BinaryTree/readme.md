@@ -22,7 +22,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${671.}$$ | ***Second Minimum Node in a Binary Tree*** | $${\color{lightgreen} Easy}$$ | [Problem671](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solutions/4482373/second-minimum-node-in-binary-tree-simplified/) | ***DFS, Math Tree*** |  ***Linkedin, Uber*** |
 
 
-### ${\color{lightblue} Medium \space Questions \space - \space (8 \space Solved)}$
+### ${\color{lightblue} Medium \space Questions \space - \space (17 \space Solved)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Tree \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
@@ -40,6 +40,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${1123.}$$ | ***Lowest Common Ancestor of Deepest Leaves*** | $${\color{yellow} Medium}$$ | [Problem1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/description/) | [Hints](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/solutions/4505928/lowest-common-ancestor-of-deepest-leaves-simplified-java/) | ***DFS, BFS, Two Way Recursion, Math Tree, Boolean Tree*** | ***Facebook, Microsoft*** |
 | $${1145.}$$ | ***Binary Tree Colring Game*** | $${\color{yellow} Medium}$$ | [Problem1145](https://leetcode.com/problems/binary-tree-coloring-game/description/) | [Hints](https://leetcode.com/problems/binary-tree-coloring-game/solutions/4486484/binary-tree-coloring-game-simplified/) | ***DFS, BFS, Greedy, Two Way Recursion*** | ***Google*** |
 | $${1161.}$$ | ***Maximum Level Sum of Binary Tree*** | $${\color{yellow} Medium}$$ | [Problem1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/solutions/4487112/maximum-level-sum-of-a-binary-tree-simplified/) | ***BFS*** | ***Google, Amazon, Microsoft*** |
+| $${1457.}$$ | ***Pseudo-Palindromic Paths in Binary Tree*** | $${\color{yellow} Medium}$$ | [Problem1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/solutions/4506390/pseudo-palindromic-paths-in-binary-tree-simplified-java/) | ***DFS, Stack, Map*** | ***Amazon*** |
 | $${2583.}$$ | ***Kth Largest Sum in a Binary Tree*** | $${\color{yellow} Medium}$$ | [Problem2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/solutions/4496999/kth-largest-sum-in-a-binary-tree-simplified/) | ***BFS, Max Heap*** | ***Amazon*** |
 | $${2385.}$$ | ***Amount of Time for Binary Tree to be Infected*** | $${\color{yellow} Medium}$$ | [Problem2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/) | [Hints](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/solutions/4498520/amount-of-time-for-binary-tree-to-be-infected-simplified/) | ***Graph, BFS, Map*** | ***Amazon*** |
 
