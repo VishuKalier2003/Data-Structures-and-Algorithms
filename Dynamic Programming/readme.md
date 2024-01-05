@@ -8,6 +8,6 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 
 ### ${\color{lightblue} Easy \space Questions \space - \space (10 \space Solved)}$
 
-| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Tree \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Dynamic \space Programming \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${1137.}$$ | ***Nth Tribonacci Number*** | $${\color{lightgreen} Easy}$$ | [Problem1137](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Hints](https://leetcode.com/problems/n-th-tribonacci-number/solutions/4512134/nth-tribonacci-number-simplified-java//) | ***Tabulation, Array*** | ***Adobe, Coursera*** | 
