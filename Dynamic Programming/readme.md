@@ -1,6 +1,6 @@
 # $${\color{lightblue} Dynamic \space Programming}$$
 
-This folder contains questions solved specifically for Binary Tree Data Structure.
+This folder contains questions solved specifically for ***Dynamic Programming***.
 
 -----
 
@@ -21,6 +21,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Dynamic \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${53.}$$ | ***Maximum Subarrays*** | $${\color{yellow} Medium}$$ | [Problem53](https://leetcode.com/problems/maximum-subarray/description/) | [Hints](https://leetcode.com/problems/maximum-subarray/solutions/4517139/maximum-subarray-simplified-java/) | ***Tabulation, Kadane*** | ***Amazon, TCS, Microsoft, Apple, Google*** |
+| $${122.}$$ | ***Best Time to Buy and Sell Stock II*** | $${\color{yellow} Medium}$$ | [Problem122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Hints](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4517390/best-time-to-buy-and-sell-stock-ii-simplified-java/) | ***Tabulation, Greedy*** | ***Microsoft, Amazon, Adobe*** |
 
 
 
