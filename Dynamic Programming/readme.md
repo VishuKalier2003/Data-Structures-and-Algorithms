@@ -14,3 +14,13 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${121.}$$ | ***Best Time to Buy and Sell Stock*** | $${\color{lightgreen} Easy}$$ | [Problem121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Hints](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/4512661/best-time-to-buy-and-sell-stock-simplified-java/) | ***Tabulation*** | ***Amazon, Apple, Facebook, Google, Microsoft*** |
 | $${746.}$$ | ***Min Cost Climbing Stairs*** | $${\color{lightgreen} Easy}$$ | [Problem746](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Hints](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/4516288/min-cost-climbing-stairs-simplified-java/) | ***Tabulation, 1D DP*** | ***Amazon, Apple, Microsoft*** | 
 | $${1137.}$$ | ***Nth Tribonacci Number*** | $${\color{lightgreen} Easy}$$ | [Problem1137](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Hints](https://leetcode.com/problems/n-th-tribonacci-number/solutions/4512134/nth-tribonacci-number-simplified-java//) | ***Tabulation, 1D DP*** | ***Adobe, Coursera*** | 
+
+
+### ${\color{lightblue} Medium \space Questions \space - \space (10 \space Solved)}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Dynamic \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
+|-|-|-|-|-|-|-|
+| $${53.}$$ | ***Maximum Subarrays*** | $${\color{yellow} Medium}$$ | [Problem53](https://leetcode.com/problems/maximum-subarray/description/) | [Hints](https://leetcode.com/problems/maximum-subarray/solutions/4517139/maximum-subarray-simplified-java/) | ***Tabulation, Kadane*** | ***Amazon, TCS, Microsoft, Apple, Google*** |
+
+
+
