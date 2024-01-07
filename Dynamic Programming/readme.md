@@ -6,7 +6,7 @@ This folder contains questions solved specifically for ***Dynamic Programming***
 
 ## ${\color{lightblue} Question \space Folder}$
 
-### ${\color{lightblue} Easy \space Questions \space - \space (10 \space Solved)}$
+### ${\color{lightblue} Easy \space Questions \space - \space (4 \space Solved)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Dynamic \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
