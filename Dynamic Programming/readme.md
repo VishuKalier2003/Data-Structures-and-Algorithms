@@ -22,6 +22,7 @@ This folder contains questions solved specifically for ***Dynamic Programming***
 |-|-|-|-|-|-|-|
 | $${53.}$$ | ***Maximum Subarrays*** | $${\color{yellow} Medium}$$ | [Problem53](https://leetcode.com/problems/maximum-subarray/description/) | [Hints](https://leetcode.com/problems/maximum-subarray/solutions/4517139/maximum-subarray-simplified-java/) | ***Tabulation, Kadane*** | ***Amazon, TCS, Microsoft, Apple, Google*** |
 | $${122.}$$ | ***Best Time to Buy and Sell Stock II*** | $${\color{yellow} Medium}$$ | [Problem122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Hints](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4517390/best-time-to-buy-and-sell-stock-ii-simplified-java/) | ***Tabulation, Greedy*** | ***Microsoft, Amazon, Adobe*** |
+| $${152.}$$ | ***Maximum Product Subarray*** | $${\color{yellow} Medium}$$ | [Problem152](https://leetcode.com/problems/maximum-product-subarray/description/) | [Hints](https://leetcode.com/problems/maximum-product-subarray/solutions/4524143/maximum-product-subarray-simplified-java/) | ***Tabulation, Two Pointers*** | ***Amazon, Microsoft, Apple, Uber*** |
 | $${198.}$$ | ***House Robber*** | $${\color{yellow} Medium}$$ | [Problem198](https://leetcode.com/problems/house-robber/description/) | [Hints](https://leetcode.com/problems/house-robber/solutions/4517824/house-robber-simplified-java/) | ***Tabulation, 1D DP, Max Steps*** | ***Cisco, Amazon, Infosys, Google, Paypal*** |
 
 
