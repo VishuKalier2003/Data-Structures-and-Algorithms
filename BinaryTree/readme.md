@@ -23,6 +23,7 @@ This folder contains questions solved specifically for Binary Tree Data Structur
 | $${671.}$$ | ***Second Minimum Node in a Binary Tree*** | $${\color{lightgreen} Easy}$$ | [Problem671](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solutions/4482373/second-minimum-node-in-binary-tree-simplified/) | ***DFS, Math Tree*** |  ***Linkedin, Uber*** |
 | $${783.}$$ | ***Minimum Difference Between BST Nodes*** | $${\color{lightgreen} Easy}$$ | [Problem783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [Hints](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solutions/4510452/minimum-distance-between-bst-nodes-simplified-java/) | ***DFS, minHeap*** | ***Microsoft, Wix*** | 
 | $${872.}$$ | ***Leaf Similar Trees*** | $${\color{lightgreen} Easy}$$ | [Problem872](https://leetcode.com/problems/leaf-similar-trees/description/) | [Hints](https://leetcode.com/problems/leaf-similar-trees/solutions/4507835/leaf-similar-trees-simplified-java/) | ***DFS*** | ***Yahoo*** |
+| $${938.}$$ | ***Range Sum of BST*** | $${\color{lightgreen} Easy}$$ | [Problem938](https://leetcode.com/problems/range-sum-of-bst/description/?envType=daily-question&envId=2024-01-08) | [Hints](https://leetcode.com/problems/range-sum-of-bst/solutions/4526606/range-sum-of-bst-simplified-java/) | ***DFS*** | ***Google, Facebook*** |
 
 
 ### ${\color{lightblue} Medium \space Questions \space - \space (18 \space Solved)}$
