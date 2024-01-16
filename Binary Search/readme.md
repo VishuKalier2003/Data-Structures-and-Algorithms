@@ -22,4 +22,5 @@ This folder contains questions solved specifically for Binary Search Algorithm.
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Search \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${167.}$$ | ***Two Sum II-Input Array is Sorted*** | $${\color{yellow} Medium}$$ | [Problem167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Hints](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/4576233/two-sum-ii-input-array-is-sorted-simplified-java/) | ***Two Pointers*** | ***Adobe, Yandex, Uber*** |
+| $${475.}$$ | ***Heaters*** | $${\color{yellow} Medium}$$ | [Problem475](https://leetcode.com/problems/heaters/description/) | [Hints](https://leetcode.com/problems/heaters/solutions/4576654/heaters-simplified-java/) | ***Sort, k Optimisation*** | ***Amazon, Apple, TCS*** |
 
