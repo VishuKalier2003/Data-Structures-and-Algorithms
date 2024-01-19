@@ -29,4 +29,8 @@ This folder contains questions solved specifically for Binary Search Algorithm.
 | $${875.}$$ | ***Koko Eating Bananas*** | $${\color{yellow} Medium}$$ | [Problem875](https://leetcode.com/problems/koko-eating-bananas/description/) | [Hints](https://leetcode.com/problems/koko-eating-bananas/solutions/4585505/koko-eating-bananas-simplified-java/) | ***k Optimisation*** | ***Amamzon, Apple, Google*** |
 | $${1011.}$$ | ***Capacity to Ship Packages Within D Days*** | $${\color{yellow} Medium}$$ | [Problem1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | [Hints](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/solutions/4585698/capacity-to-ship-packages-within-d-days-simplified-java/) | ***k Optimisation*** | ***Amazon, Facebook, Flipkart*** |
 | $${1552.}$$ | ***Magnetic Force Between Two Balls*** | $${\color{yellow} Medium}$$ | [Problem1552](https://leetcode.com/problems/magnetic-force-between-two-balls/description/) | [Hints](https://leetcode.com/problems/magnetic-force-between-two-balls/solutions/4592574/magnetic-force-between-two-balls-simplified-java/) | ***k Optimisation, Greedy*** | ***Amazon, Google*** |
+| $${2024.}$$ | ***Maximise the Confusion of an Exam*** | $${\color{yellow} Medium}$$ | [Problem2024](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/) | [Hints](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/solutions/4593775/maximize-the-confusion-of-an-exam-simplified-java/) | ***Range Detection, Queue, Sliding Window*** | ***Facebook, Amazon*** |
+
+
+
 
