@@ -8,7 +8,7 @@ The table provides the Questions in well-sorted fashion.
 
 | $${\color{red} S. \space No. }$$ | $${\color{red} Data \space Structure}$$ | $${\color{red}Easy}$$ | $${\color{red}Medium}$$ | $${\color{red} Hard}$$ | $${\color{red}Link}$$ |
 |-|-|-|-|-|-|
-| $${1.}$$ | $${\color{lightgreen} Binary \space Search}$$ | $${1}$$ | $${1}$$ | $${1}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Binary%20Search/readme.md) | 
+| $${1.}$$ | $${\color{lightgreen} Binary \space Search}$$ | $${6}$$ | $${11}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Binary%20Search/readme.md) | 
 | $${1.}$$ | $${\color{lightgreen} Binary \space Tree }$$ | $${10}$$ | $${8}$$ | $${3}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/BinaryTree) |
 | $${2.}$$ | $${\color{lightgreen} Dynamic \space Programming}$$ | $${1}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Dynamic%20Programming) |
 | $${2.}$$ | $${\color{lightgreen} Map \space and \space Set}$$ | $${2}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Maps) |
