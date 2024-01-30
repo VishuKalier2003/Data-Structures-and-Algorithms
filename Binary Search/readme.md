@@ -34,4 +34,9 @@ This folder contains questions solved specifically for Binary Search Algorithm.
 | $${2226.}$$ | ***Maximum Candies Allocated to K Children*** | $${\color{yellow} Medium}$$ | [Problem2226](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) | [Hints](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/solutions/4597476/maximum-candies-allocated-to-k-children-simplified-java/) | ***k Optimisation*** | ***Google*** |
 | $${2554.}$$ | ***Maximum Number of Integers to Choose From a Range I*** | $${\color{yellow} Medium}$$ | [Problem2554](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/) | [Hints](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/solutions/4631344/maximum-number-of-integers-to-choose-from-range-i-simplified-java/) | ***Sort, Range Detection*** | ***Paypal*** |
 
+### ${\color{lightblue} Hard \space Questions \space - \space (6 \space Solved)}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Search \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
+|-|-|-|-|-|-|-|
+| $${410.}$$ | ***Split Array Largest Sum*** | [Problem410](https://leetcode.com/problems/split-array-largest-sum/description/) | [Hints](https://leetcode.com/problems/split-array-largest-sum/solutions/4643479/split-array-largest-sum-simplified-java/) | ***k Optimisation, Greedy, Prefix Sum*** | ***Amazon, Google*** |
 
