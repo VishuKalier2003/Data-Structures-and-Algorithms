@@ -39,4 +39,9 @@ This folder contains questions solved specifically for Binary Search Algorithm.
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Search \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${410.}$$ | ***Split Array Largest Sum*** | $${\color{red} Hard}$$ | [Problem410](https://leetcode.com/problems/split-array-largest-sum/description/) | [Hints](https://leetcode.com/problems/split-array-largest-sum/solutions/4643479/split-array-largest-sum-simplified-java/) | ***k Optimisation, Greedy, Prefix Sum*** | ***Amazon, Google*** |
+| $${778.}$$ | ***Swim in Rising Water*** | $${\color{red} Hard}$$ | [Problem778](https://leetcode.com/problems/swim-in-rising-water/description/) | [Hints](https://leetcode.com/problems/swim-in-rising-water/solutions/4669286/swim-in-rising-water-simplified-java/) | ***k Optimisation, Matrix, DFS*** | ***Goolge, Amazon, Facebook*** |
+
+
+
+
 
