@@ -18,5 +18,9 @@ This folder contains questions solved specifically for Hashmap and Set Data Stru
 | $${1897.}$$ | ***Redistribute Characters to Make All Strings Equal*** | $${\color{lightgreen} Easy}$$ | [Problem1897](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/description/?envType=daily-question&envId=2023-12-30) | [Hints](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/solutions/4476699/redistribute-characters-to-make-all-strings-equal-simplified/) | ***Frequency Count*** | ***Unknown*** |
 | $${2103.}$$ | ***Rings and Rods*** | $${\color{lightgreen} Easy}$$ | [Problem2103](https://leetcode.com/problems/rings-and-rods/description/) | [Hints](https://leetcode.com/problems/rings-and-rods/solutions/4739871/rings-and-rods-simplified-java/) | ***Table Search, Unique, String*** | ***Amazon, Microsoft*** |
 | $${2248.}$$ | ***Intersection of Multiple Arrays*** | $${\color{lightgreen} Easy}$$ | [Problem2248](https://leetcode.com/problems/intersection-of-multiple-arrays/description/) | [Hints](https://leetcode.com/problems/intersection-of-multiple-arrays/solutions/4740014/intersection-of-multiple-arrays-simplified-java/) | ***Table Search, Unique*** | ***Microsoft, Spotify*** |
-| $${2729.}$$ | ***Check If the Number is Fascinating*** | $${\color{lightgreen} Easy}$$ | [Problem2729](https://leetcode.com/problems/check-if-the-number-is-fascinating/description/) | [Hints](https://leetcode.com/problems/check-if-the-number-is-fascinating/solutions/4745038/check-if-the-number-is-fascinating-simplified-java/) | ***Frequency Count*** | ***Amazon*** |
+| $${2729.}$$ | ***Check If the Number is Fascinating*** | $${\color{lightgreen} Easy}$$ | [Problem2729](https://leetcode.com/problems/check-if-the-number-is-fascinating/description/) | [Hints](https://leetcode.com/problems/check-if-the-number-is-fascinating/solutions/4745038/check-if-the-number-is-fascinating-simplified-java/) | ***Frequency Count, String*** | ***Amazon*** |
+
+
+
+
 
