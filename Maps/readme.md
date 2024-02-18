@@ -4,6 +4,8 @@ This folder contains questions solved specifically for Hashmap and Set Data Stru
 
 ## ${\color{lightblue} Question \space Folder}$
 
+### ${\color{lightblue} Easy \space Questions}$
+
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Map \space and \space Set \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${217.}$$ | ***Contains Duplicate*** | $${\color{lightgreen} Easy}$$ | [Problem217](https://leetcode.com/problems/contains-duplicate/description/) | [Hints](https://leetcode.com/problems/contains-duplicate/solutions/4722412/contains-duplicate-simplified-java/) | ***Unique*** | ***Yahoo*** |
@@ -19,6 +21,8 @@ This folder contains questions solved specifically for Hashmap and Set Data Stru
 | $${2103.}$$ | ***Rings and Rods*** | $${\color{lightgreen} Easy}$$ | [Problem2103](https://leetcode.com/problems/rings-and-rods/description/) | [Hints](https://leetcode.com/problems/rings-and-rods/solutions/4739871/rings-and-rods-simplified-java/) | ***Table Search, Unique, String*** | ***Amazon, Microsoft*** |
 | $${2248.}$$ | ***Intersection of Multiple Arrays*** | $${\color{lightgreen} Easy}$$ | [Problem2248](https://leetcode.com/problems/intersection-of-multiple-arrays/description/) | [Hints](https://leetcode.com/problems/intersection-of-multiple-arrays/solutions/4740014/intersection-of-multiple-arrays-simplified-java/) | ***Table Search, Unique*** | ***Microsoft, Spotify*** |
 | $${2729.}$$ | ***Check If the Number is Fascinating*** | $${\color{lightgreen} Easy}$$ | [Problem2729](https://leetcode.com/problems/check-if-the-number-is-fascinating/description/) | [Hints](https://leetcode.com/problems/check-if-the-number-is-fascinating/solutions/4745038/check-if-the-number-is-fascinating-simplified-java/) | ***Frequency Count, String*** | ***Amazon*** |
+
+### ${\color{lightblue} Medium \space Questions}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Map \space and \space Set \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
