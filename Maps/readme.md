@@ -27,6 +27,17 @@ This folder contains questions solved specifically for Hashmap and Set Data Stru
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Map \space and \space Set \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${442.}$$ | ***Find All Duplicates in an Array*** | $${\color{yellow} Medium}$$ | [Problem442](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Hints](https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/4746491/find-all-duplicates-in-an-array-simplified-java/) | ***Frequency Count*** | ***Infosys*** |
+| $${454.}$$ | ***4 Sum II*** | $${\color{yellow} Medium}$$ | [Problem454](https://leetcode.com/problems/4sum-ii/description/) | [Hints](https://leetcode.com/problems/4sum-ii/solutions/4749285/4-sum-ii-simplified-java/) | ***Frequency Count*** | ***Amazon*** |
+
+
+
+
+
+
+
+
+
+
 
 
 
