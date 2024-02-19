@@ -28,6 +28,7 @@ This folder contains questions solved specifically for Hashmap and Set Data Stru
 |-|-|-|-|-|-|-|
 | $${442.}$$ | ***Find All Duplicates in an Array*** | $${\color{yellow} Medium}$$ | [Problem442](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Hints](https://leetcode.com/problems/find-all-duplicates-in-an-array/solutions/4746491/find-all-duplicates-in-an-array-simplified-java/) | ***Frequency Count*** | ***Infosys*** |
 | $${454.}$$ | ***4 Sum II*** | $${\color{yellow} Medium}$$ | [Problem454](https://leetcode.com/problems/4sum-ii/description/) | [Hints](https://leetcode.com/problems/4sum-ii/solutions/4749285/4-sum-ii-simplified-java/) | ***Frequency Count*** | ***Amazon*** |
+| $${532.}$$ | ***K-dff Pairs in an Array*** | $${\color{yellow} Medium}$$ | [Problem532](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Hints](https://leetcode.com/problems/k-diff-pairs-in-an-array/solutions/4749734/k-diff-pairs-in-the-array-simplified-java/) | ***Unique*** | ***Wipro*** |
 
 
 
