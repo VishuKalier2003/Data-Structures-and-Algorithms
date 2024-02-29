@@ -23,7 +23,8 @@ The table provides the Questions in well-sorted fashion for Hackerrank Platform.
 
 | $${\color{red} S. \space No. }$$ | $${\color{red} Data \space Structure}$$ | $${\color{red}Easy}$$ | $${\color{red}Medium}$$ | $${\color{red} Hard}$$ | $${\color{red}Link}$$ |
 |-|-|-|-|-|-|
-| $${1.}$$ | $${\color{lightgreen} Arrays}$$ | $${6}$$ | $${11}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Hackerrank/Arrays/readme.md) | 
+| $${1.}$$ | $${\color{lightgreen} Arrays}$$ | $${1}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Hackerrank/Arrays/readme.md) |
+| $${2.}$$ | $${\color{lightgreen} Math}$$ | $${1}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Hackerrank/Math) |
 
 ----
 
