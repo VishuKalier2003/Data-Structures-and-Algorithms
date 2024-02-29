@@ -1,4 +1,4 @@
-# $${\color{lightblue} Binary \space Search}$$
+# $${\color{lightblue} Arrays}$$
 
 This folder contains questions solved specifically for Arrays.
 
