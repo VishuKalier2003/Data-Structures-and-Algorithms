@@ -15,3 +15,4 @@ This folder contains questions solved specifically for Arrays.
 | $${3.}$$ | ***Breaking Best and Worst Records*** | $${\color{lightgreen} Easy}$$ | [BreakingRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) | ***Loop, Streams*** | ***Amazon*** |
 | $${4.}$$ | ***Birthday Bar*** | $${\color{lightgreen} Easy}$$ | [BirthdayBar](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true) | ***Sliding Window*** | ***Flipkart*** |
 | $${5.}$$ | ***Counting Valleys*** | $${\color{lightgreen} Easy}$$ | [CountingValleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) | ***Prefix Sum*** | ***Flipkart*** |
+| $${6.}$$ | ***Electronics Shop*** | $${\color{lightgreen} Easy}$$ | [ElectronicsShop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) | ***Nested Loop, Streams*** | ***Yahoo, Alphabet*** |
