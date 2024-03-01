@@ -14,3 +14,4 @@ This folder contains questions solved specifically for Arrays.
 | $${2.}$$ | ***Between Two Sets*** | $${\color{lightgreen} Easy}$$ | [BetweenTwoSets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true) | ***Loop, Streams*** | ***Wipro*** |
 | $${3.}$$ | ***Breaking Best and Worst Records*** | $${\color{lightgreen} Easy}$$ | [BreakingRecords](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) | ***Loop, Streams*** | ***Amazon*** |
 | $${4.}$$ | ***Birthday Bar*** | $${\color{lightgreen} Easy}$$ | [BirthdayBar](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true) | ***Sliding Window*** | ***Flipkart*** |
+| $${5.}$$ | ***Counting Valleys*** | $${\color{lightgreen} Easy}$$ | [CountingValleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) | ***Prefix Sum*** | ***Flipkart*** |
