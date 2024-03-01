@@ -12,4 +12,4 @@ This folder contains questions solved specifically for HashMaps.
 |-|-|-|-|-|-|
 | $${1.}$$ | ***Divisible Sum Pairs*** | $${\color{lightgreen} Easy}$$ | [DivisibleSumPairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) | ***Frequency Map, Streams*** | ***Google*** |
 | $${2.}$$ | ***Migratory Birds*** | $${\color{lightgreen} Easy}$$ | [MigratoryBirds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) | ***Frequency Map, Streams*** | ***Infosys, Google*** |
-| $${3.}$$ | ***Salea By Match*** | $${\color{lightgreen} Easy}$$ | [SalesByMatch](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true) | ***Frequency Map, Streams*** | ***Infosys*** |
+| $${3.}$$ | ***Sales By Match*** | $${\color{lightgreen} Easy}$$ | [SalesByMatch](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true) | ***Frequency Map, Streams*** | ***Infosys*** |
