@@ -17,5 +17,6 @@ This folder contains questions solved specifically for Arrays.
 | $${5.}$$ | ***Counting Valleys*** | $${\color{lightgreen} Easy}$$ | [CountingValleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) | ***Prefix Sum*** | ***Flipkart*** |
 | $${6.}$$ | ***Electronics Shop*** | $${\color{lightgreen} Easy}$$ | [ElectronicsShop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) | ***Nested Loop, Streams*** | ***Yahoo, Alphabet*** |
 | $${7.}$$ | ***Hurdle Race*** | $${\color{lightgreen} Easy}$$ | [HurdleRace](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) | ***Loop*** | ***Alphabet*** |
+| $${8.}$$ | ***Designer PDF Viewer*** | $${\color{lightgreen} Easy}$$ | [DesignerPdf](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) | ***Loop*** | ***Infosys*** |
 
 
