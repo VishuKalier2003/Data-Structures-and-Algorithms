@@ -18,5 +18,6 @@ This folder contains questions solved specifically for Arrays.
 | $${6.}$$ | ***Electronics Shop*** | $${\color{lightgreen} Easy}$$ | [ElectronicsShop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) | ***Nested Loop, Streams*** | ***Yahoo, Alphabet*** |
 | $${7.}$$ | ***Hurdle Race*** | $${\color{lightgreen} Easy}$$ | [HurdleRace](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) | ***Loop*** | ***Alphabet*** |
 | $${8.}$$ | ***Designer PDF Viewer*** | $${\color{lightgreen} Easy}$$ | [DesignerPdf](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) | ***Loop*** | ***Infosys*** |
+| $${9.}$$ | ***Beautiful Days at Movies*** | $${color{lightgreen} Easy}$$ | [BeautifulDays](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | ***Loops, String, Streams*** | ***Google, Amazon*** |
 
 
