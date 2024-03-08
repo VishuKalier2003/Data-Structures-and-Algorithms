@@ -20,4 +20,7 @@ This folder contains questions solved specifically for Arrays.
 | $${8.}$$ | ***Designer PDF Viewer*** | $${\color{lightgreen} Easy}$$ | [DesignerPdf](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) | ***Loop*** | ***Infosys*** |
 | $${9.}$$ | ***Beautiful Days at Movies*** | $${\color{lightgreen} Easy}$$ | [BeautifulDays](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | ***Loop, String, Streams*** | ***Google, Amazon*** |
 | $${10.}$$ | ***Min Max Sum*** | $${\color{lightgreen} Easy}$$ | [MinMaxSum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true) | ***Loop, Stream*** | ***Wipro*** |
+| $${11.}$$ | ***Cut the Sticks*** | $${\color{lightgreen} Easy}$$ | [CutTheSticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) | ***Heap, Queue, List*** | ***Amazon, Google, Meta*** |
+
+
 
