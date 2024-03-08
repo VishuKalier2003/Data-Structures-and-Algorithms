@@ -27,7 +27,7 @@ The table provides the Questions in well-sorted fashion for Hackerrank Platform.
 | $${2.}$$ | $${\color{lightgreen} Math}$$ | $${1}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Hackerrank/Math) |
 | $${3.}$$ | $${\color{lightgreen} HashMaps}$$ | $${1}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Hackerrank/HashMaps) |
 | $${4.}$$ | $${\color{lightgreen} Strings}$$ | $${2}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Hackerrank/Strings) |
-
+| $${5.}$$ | $${\color{lightgreen} Dynamic \space Programming}$$ | $${1}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Hackerrank/dynamic) |
 ----
 
 ## ${\color{lightblue} Maintained \space By}$
