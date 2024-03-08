@@ -12,3 +12,4 @@ This folder contains questions solved specifically for Strings.
 |-|-|-|-|-|-|
 | $${1.}$$ | ***Cats and a Mouse*** | $${\color{lightgreen} Easy}$$ | [CatsAndMouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) | ***String, Math*** | ***Unknown*** |
 | $${2.}$$ | ***Angry Professor*** | $${\color{lightgreen} Easy}$$ | [AngryProfessor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | ***String, Array, Streams*** | ***Unknown*** |
+| $${3.}$$ | ***Repeated String*** | $${\color{lightgreen} Easy}$$ | [RepeatedString](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true) | ***String, Math*** | ***Meta** |
