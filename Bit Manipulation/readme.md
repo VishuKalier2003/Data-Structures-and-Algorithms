@@ -1,0 +1,11 @@
+# $${\color{lightblue} Bit \space Manipulation}$$
+
+This folder contains questions solved specifically for Bit Manipulation.
+
+## ${\color{lightblue} Question \space Folder}$
+
+### ${\color{lightblue} Easy \space Questions}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
+|-|-|-|-|-|-|-|
+| $${191.}$$ | ***Number of 1 Bits*** | $${\color{lightgreen} Easy}$$ | [Problem191](https://leetcode.com/problems/number-of-1-bits/description/) | [Hints](https://leetcode.com/problems/number-of-1-bits/solutions/4846957/number-of-1-s-bit-simplified-java/) | ***Bit Count, string*** | ***Apple*** |
