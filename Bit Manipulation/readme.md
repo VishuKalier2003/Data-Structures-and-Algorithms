@@ -15,3 +15,7 @@ This folder contains questions solved specifically for Bit Manipulation.
 | $${868.}$$ | ***Binary Gap*** | $${\color{lightgreen} Easy}$$ | [Problem868](https://leetcode.com/problems/binary-gap/description/) | [Hints](https://leetcode.com/problems/binary-gap/solutions/4848861/binary-gap-simplified-java/) | ***Bit Distance, String, Math*** | ***Amazon, TCS*** |
 | $${1486.}$$ | ***XOR Operations in an Array*** | $${\color{lightgreen} Easy}$$ | [Problem1486](https://leetcode.com/problems/xor-operation-in-an-array/description/) | [Hints](https://leetcode.com/problems/xor-operation-in-an-array/solutions/4849008/xor-operations-in-an-array-simplified-java/) | ***Bitwise, Array*** | ***Google*** |
 | $${1863.}$$ | ***Sum of All Subset XOR Total*** | $${\color{lightgreen} Easy}$$ | [Problem1863](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/) | [Hints](https://leetcode.com/problems/sum-of-all-subset-xor-totals/solutions/4853585/sum-of-all-subset-xor-totals-simplified-java/) | ***Bitwise, Two Way Recursion*** | ***Google, Microsoft, Amazon, Meta*** |
+| $${2206.}$$ | ***Divide Array Into Equal Pairs*** | $${\color{lightgreen} Easy}$$ | [Problem2206](https://leetcode.com/problems/divide-array-into-equal-pairs/description/) | [Hints](https://leetcode.com/problems/divide-array-into-equal-pairs/solutions/4855084/divide-array-into-equal-parts-simplified-java/) | ***Frequency Map*** | ***TCS*** |
+
+
+
