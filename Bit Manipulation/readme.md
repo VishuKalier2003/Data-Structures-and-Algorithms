@@ -22,7 +22,7 @@ This folder contains questions solved specifically for Bit Manipulation.
 
 ----
 
-### ${\color{lightblue} Easy \space Questions}$
+### ${\color{lightblue} Medium \space Questions}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
