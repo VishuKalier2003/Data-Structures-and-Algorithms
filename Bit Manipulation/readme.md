@@ -29,5 +29,6 @@ This folder contains questions solved specifically for Bit Manipulation.
 | $${78.}$$ | ***Subsets*** | $${\color{yellow} Medium}$$ | [Problem78](https://leetcode.com/problems/subsets/description/) | [Hints](https://leetcode.com/problems/subsets/solutions/4857907/subsets-simplified-java/) | ***Two Way Recursion, Array*** | ***TCS, Amazon*** |
 | $${137.}$$ | ***Single Number II*** | $${\color{yellow} Medium}$$ | [Problem137](https://leetcode.com/problems/single-number-ii/description/) | [Hints](https://leetcode.com/problems/single-number-ii/solutions/4858335/single-number-ii-simplified-java/) | ***Frequency Map*** | ***Amazon*** |
 | $${477.}$$ | ***Total Hamming Distance*** | $${\color{yellow} Medium}$$ | [Problem477](https://leetcode.com/problems/total-hamming-distance/description/) | [Hints](https://leetcode.com/problems/total-hamming-distance/solutions/4858442/total-hamming-distance-simplified-java/) | ***Bit Distance, String, Array*** | ***Meta, Google*** |
+| $${1310.}$$ | ***XOR Queries of a Subarray*** | $${\color{yellow} Medium}$$ | [Problem1310](https://leetcode.com/problems/xor-queries-of-a-subarray/description/) | [Hints](https://leetcode.com/problems/xor-queries-of-a-subarray/solutions/4858771/xor-queries-of-a-subarray-simplified-java/) | ***Bitwise, Array*** | ***Flipkart*** |
 
 
