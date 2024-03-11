@@ -27,7 +27,7 @@ This folder contains questions solved specifically for Bit Manipulation.
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${78.}$$ | ***Subsets*** | $${\color{yellow} Medium}$$ | [Problem78](https://leetcode.com/problems/subsets/description/) | [Hints](https://leetcode.com/problems/subsets/solutions/4857907/subsets-simplified-java/) | ***Two Way Recursion, Array*** | ***TCS, Amazon*** |
-
+| $${137.}$$ | ***Single Number II*** | $${\color{yellow} Medium}$$ | [Problem137](https://leetcode.com/problems/single-number-ii/description/) | [Hints](https://leetcode.com/problems/single-number-ii/solutions/4858335/single-number-ii-simplified-java/) | ***Frequency Map*** | ***Amazon*** |
 
 
 
