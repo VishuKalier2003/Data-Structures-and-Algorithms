@@ -20,8 +20,13 @@ This folder contains questions solved specifically for Bit Manipulation.
 | $${2917.}$$ | ***Find the K-or of an Array*** | $${\color{lightgreen} Easy}$$ | [Problem2917](https://leetcode.com/problems/find-the-k-or-of-an-array/description/) | [Hints](https://leetcode.com/problems/find-the-k-or-of-an-array/solutions/4855368/find-the-k-or-of-an-array-simplified-java/) | ***Padding, Array, String*** | ***Meta, Google, Microsoft, Amazon*** |
 | $${2932.}$$ | ***Maximum Strong Pair XOR I*** | $${\color{lightgreen} Easy}$$ | [Problem2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/description/) | [Hints](https://leetcode.com/problems/maximum-strong-pair-xor-i/solutions/4857739/maximum-strong-pair-xor-i-simplified-java/) | ***Bitwise, Array*** | ***Apple*** |
 
+----
 
+### ${\color{lightblue} Easy \space Questions}$
 
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
+|-|-|-|-|-|-|-|
+| $${78.}$$ | ***Subsets*** | $${\color{yellow} Medium}$$ | [Problem78](https://leetcode.com/problems/subsets/description/) | [Hints](https://leetcode.com/problems/subsets/solutions/4857907/subsets-simplified-java/) | ***Two Way Recursion, Array*** | ***TCS, Amazon*** |
 
 
 
