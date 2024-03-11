@@ -18,4 +18,11 @@ This folder contains questions solved specifically for Bit Manipulation.
 | $${2206.}$$ | ***Divide Array Into Equal Pairs*** | $${\color{lightgreen} Easy}$$ | [Problem2206](https://leetcode.com/problems/divide-array-into-equal-pairs/description/) | [Hints](https://leetcode.com/problems/divide-array-into-equal-pairs/solutions/4855084/divide-array-into-equal-parts-simplified-java/) | ***Frequency Map*** | ***TCS*** |
 | $${2595.}$$ | ***Number of Even Odd Bits*** | $${\color{lightgreen} Easy}$$ | [Problem2595](https://leetcode.com/problems/number-of-even-and-odd-bits/description/) | [Hints](https://leetcode.com/problems/number-of-even-and-odd-bits/solutions/4855162/number-of-even-odd-bits-simplified-java/) | ***Bit Count, String*** | ***Meta, Google*** |
 | $${2917.}$$ | ***Find the K-or of an Array*** | $${\color{lightgreen} Easy}$$ | [Problem2917](https://leetcode.com/problems/find-the-k-or-of-an-array/description/) | [Hints](https://leetcode.com/problems/find-the-k-or-of-an-array/solutions/4855368/find-the-k-or-of-an-array-simplified-java/) | ***Padding, Array, String*** | ***Meta, Google, Microsoft, Amazon*** |
+| $${2932.}$$ | ***Maximum Strong Pair XOR I*** | $${\color{lightgreen} Easy}$$ | [Problem2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/description/) | [Hints](https://leetcode.com/problems/maximum-strong-pair-xor-i/solutions/4857739/maximum-strong-pair-xor-i-simplified-java/) | ***Bitwise, Array*** |
+
+
+
+
+
+
 
