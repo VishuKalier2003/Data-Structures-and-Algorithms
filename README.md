@@ -15,6 +15,7 @@ The table provides the Questions in well-sorted fashion for Leetcode Platform.
 | $${3.}$$ | $${\color{lightgreen} Bit \space Manipulation}$$ | $${1}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Bit%20Manipulation) |
 | $${4.}$$ | $${\color{lightgreen} Dynamic \space Programming}$$ | $${1}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Dynamic%20Programming) |
 | $${5.}$$ | $${\color{lightgreen} Map \space and \space Set}$$ | $${2}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Maps) |
+| $${6.}$$ | $${\color{lightgreen} Strings}$$ | $${1}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Strings) |
 
 ----
 
