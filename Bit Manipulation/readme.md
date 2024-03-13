@@ -36,5 +36,16 @@ This folder contains questions solved specifically for Bit Manipulation.
 | $${2546.}$$ | ***Apply Bitwise Operations to Make Strings Equal*** | $${\color{yellow} Medium}$$ |[Problem2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/description/) | [Hints](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/solutions/4870388/apply-bitwise-operations-to-make-strings-equal-simplified-java/) | ***String, Bit Count*** | ***Infosys*** |
 | $${2997.}$$ | ***Minimum Number of Operations to Make Array XOR Equal to K*** | $${\color{yellow} Medium}$$ | [Problem2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/) | [Hints](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/solutions/4870078/minimum-number-of-operations-to-make-array-xor-equal-to-k-simplified-java/) | ***Padding, Array, String, Bit Count*** | ***Amazon, Microsoft, Google, Meta*** | 
 
+----
+
+### ${\color{lightblue} Hard \space Questions}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
+|-|-|-|-|-|-|-|
+| $${982.}$$ | ***Triplets with Bitwise AND Equal to Zero*** | $${\color{red} Hard}$$ | [Prblem982](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) | [Hints](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/solutions/4870931/triplets-with-bitwise-and-equal-to-zero-simplified-java/) | ***Bitwise, Array*** | ***Google, Meta*** |
+
+
+
+
 
 
