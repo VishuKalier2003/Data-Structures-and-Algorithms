@@ -17,4 +17,7 @@ This folder contains questions solved specifically for Strings.
 | $${925.}$$ | ***Long Pressed Name*** | $${\color{lightgreen} Easy}$$ | [Problem925](https://leetcode.com/problems/long-pressed-name/description/) | [Hints](https://leetcode.com/problems/long-pressed-name/solutions/4899748/long-pressed-name-simplified-java/) | ***Pattern Matching, Class*** | ***Amazon, Google, Meta*** |
 | $${1002.}$$ | ***Find Common Characters*** | $${\color{lightgreen} Easy}$$ | [Problem1002](https://leetcode.com/problems/find-common-characters/description/) | [Hints](https://leetcode.com/problems/find-common-characters/solutions/4899851/find-common-characters-simplified-java/) | ***Matrix*** | ***F5, Intel*** |
 | $${1417.}$$ | ***Reformat The String*** | $${\color{lightgreen} Easy}$$ | [Problem1417](https://leetcode.com/problems/reformat-the-string/description/) | [Hints](https://leetcode.com/problems/reformat-the-string/solutions/4899997/reformat-the-string-simplified-java/) | ***Stack*** | ***Yahoo, Alphabet*** |
+| $${1556.}$$ | ***Thousand Separator*** | $${\color{lightgreen} Easy}$$ | [Problem1556](https://leetcode.com/problems/thousand-separator/description/) | [Hints](https://leetcode.com/problems/thousand-separator/solutions/4900061/thousand-separator-simplified-java/) | ***Stream*** | ***Unknown*** |
+
+
 
