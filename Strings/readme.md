@@ -15,6 +15,6 @@ This folder contains questions solved specifically for Strings.
 | $${819.}$$ | ***Most Common Word*** | $${\color{lightgreen} Easy}$$ | [Problem819](https://leetcode.com/problems/most-common-word/description/) | [Hints](https://leetcode.com/problems/most-common-word/solutions/4872723/most-common-word-simplified-java/) | ***Frequency Map, Streams*** | ***Adobe*** |
 | $${884.}$$ | ***Uncommon Words from Two Strings*** | $${\color{lightgreen} Easy}$$ | [Problem884](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | [Hints](https://leetcode.com/problems/uncommon-words-from-two-sentences/solutions/4897931/uncommon-words-from-two-sentences-simplified-java/) | ***Frequency Map, Words Split*** | ***Infosys, Apple, Adobe*** |
 | $${925.}$$ | ***Long Pressed Name*** | $${\color{lightgreen} Easy}$$ | [Problem925](https://leetcode.com/problems/long-pressed-name/description/) | [Hints](https://leetcode.com/problems/long-pressed-name/solutions/4899748/long-pressed-name-simplified-java/) | ***Pattern Matching, Class*** | ***Amazon, Google, Meta*** |
-
+| $${1002.}$$ | ***Find Common Characters*** | $${\color{lightgreen} Easy}$$ | [Problem1002](https://leetcode.com/problems/find-common-characters/description/) | [Hints](https://leetcode.com/problems/find-common-characters/solutions/4899851/find-common-characters-simplified-java/) | ***Matrix*** | ***F5, Intel*** |
 
 
