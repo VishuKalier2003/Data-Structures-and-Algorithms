@@ -20,4 +20,9 @@ This folder contains questions solved specifically for Strings.
 | $${1556.}$$ | ***Thousand Separator*** | $${\color{lightgreen} Easy}$$ | [Problem1556](https://leetcode.com/problems/thousand-separator/description/) | [Hints](https://leetcode.com/problems/thousand-separator/solutions/4900061/thousand-separator-simplified-java/) | ***Stream*** | ***Unknown*** |
 | $${1592.}$$ | ***Rearrange Spaces Between Words*** | $${\color{lightgreen} Easy}$$ | [Problem1592](https://leetcode.com/problems/rearrange-spaces-between-words/description/) | [Hints](https://leetcode.com/problems/rearrange-spaces-between-words/solutions/4901839/rearrange-spaces-between-words-simplified-java/) | ***Streams, Greedy*** | ***Infosys, Intel*** |
 | $${1629.}$$ | ***Slowest Key*** | $${\color{lightgreen} Easy}$$ | [Problem1629](https://leetcode.com/problems/slowest-key/description/) | [Hints](https://leetcode.com/problems/slowest-key/solutions/4901986/slowest-key-simplified-java/) | ***Streams*** | ***Oracle, Adobe*** |
+| $${1763.}$$ | ***Longest Nice Substring*** | $${\color{lightgreen} Easy}$$ | [Problem1763](https://leetcode.com/problems/longest-nice-substring/description/) | [Hints](https://leetcode.com/problems/longest-nice-substring/solutions/4902836/longest-nice-substring-simplified-java/) | ***Streams, Unique, ASCII*** | ***Samsung, Sony, Amazon*** |
+
+
+
+
 
