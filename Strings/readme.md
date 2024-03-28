@@ -24,6 +24,7 @@ This folder contains questions solved specifically for Strings.
 | $${1763.}$$ | ***Longest Nice Substring*** | $${\color{lightgreen} Easy}$$ | [Problem1763](https://leetcode.com/problems/longest-nice-substring/description/) | [Hints](https://leetcode.com/problems/longest-nice-substring/solutions/4902836/longest-nice-substring-simplified-java/) | ***Streams, Unique, ASCII*** | ***Samsung, Sony, Amazon*** |
 | $${1768.}$$ | ***Merge Strings Alternately*** | $${\color{lightgreen} Easy}$$ | [Problem1768](https://leetcode.com/problems/merge-strings-alternately/description/) | [Hints](https://leetcode.com/problems/merge-strings-alternately/solutions/4939117/merge-strings-alternately-simplified-java/) | ***Two Pointers*** | ***Amazon, TCS*** |
 | $${1832.}$$ | ***Check if Sentence is Pangram*** | $${\color{lightgreen} Easy}$$ | [Problem1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/) | [Hints](https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/4939165/check-if-sentence-is-pangram-simplified-java/) | ***Frequency Map*** | ***Meta, Google*** |
+| $${1957.}$$ | ***Delete Characters to Make Fancy String*** | $${\color{lightgreen} Easy}$$ | [Problem1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | [Hints](https://leetcode.com/problems/delete-characters-to-make-fancy-string/solutions/4939272/delete-characters-to-make-fancy-string-simplified-java/) | ***Stack Elimination*** | ***Intel, Amazon, Microsoft*** |
 
 
 
