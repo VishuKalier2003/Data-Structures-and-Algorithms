@@ -4,7 +4,7 @@ This folder contains questions solved specifically for Hashmap and Set Data Stru
 
 ## ${\color{lightblue} Question \space Folder}$
 
-### ${\color{lightblue} Easy \space Questions}$
+### ${\color{lightblue} Easy \space Questions - (Solved \space 14)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Map \space and \space Set \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
@@ -23,7 +23,7 @@ This folder contains questions solved specifically for Hashmap and Set Data Stru
 | $${2248.}$$ | ***Intersection of Multiple Arrays*** | $${\color{lightgreen} Easy}$$ | [Problem2248](https://leetcode.com/problems/intersection-of-multiple-arrays/description/) | [Hints](https://leetcode.com/problems/intersection-of-multiple-arrays/solutions/4740014/intersection-of-multiple-arrays-simplified-java/) | ***Table Search, Unique*** | ***Microsoft, Spotify*** |
 | $${2729.}$$ | ***Check If the Number is Fascinating*** | $${\color{lightgreen} Easy}$$ | [Problem2729](https://leetcode.com/problems/check-if-the-number-is-fascinating/description/) | [Hints](https://leetcode.com/problems/check-if-the-number-is-fascinating/solutions/4745038/check-if-the-number-is-fascinating-simplified-java/) | ***Frequency Count, String*** | ***Amazon*** |
 
-### ${\color{lightblue} Medium \space Questions}$
+### ${\color{lightblue} Medium \space Questions - (Solved \space 3)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Map \space and \space Set \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
