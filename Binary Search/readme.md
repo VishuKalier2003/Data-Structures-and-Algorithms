@@ -17,7 +17,7 @@ This folder contains questions solved specifically for Binary Search Algorithm.
 | $${2529.}$$ | ***Maximum Count of Positive and Negative Integer*** | $${\color{lightgreen} Easy}$$ | [Problem2529](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/) | [Hints](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/solutions/4565498/maximum-count-of-positive-and-negative-integer-simplified-java/) | ***Range Detection*** | ***ShareChat*** |
 | $${2824.}$$ | ***Count Pairs Whose Sum is Less than Target*** | $${\color{lightgreen} Easy}$$ | [Problem2824](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/) | [Hints](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/solutions/4564037/count-pairs-whose-sum-is-less-than-target-simplified-java/) | ***Sort, Range Detection*** | ***Facebook, Uber, Google*** |
 
-### ${\color{lightblue} Medium \space Questions \space - \space (2 \space Solved)}$
+### ${\color{lightblue} Medium \space Questions \space - \space (12 \space Solved)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Search \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
@@ -34,7 +34,7 @@ This folder contains questions solved specifically for Binary Search Algorithm.
 | $${2226.}$$ | ***Maximum Candies Allocated to K Children*** | $${\color{yellow} Medium}$$ | [Problem2226](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) | [Hints](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/solutions/4597476/maximum-candies-allocated-to-k-children-simplified-java/) | ***k Optimisation*** | ***Google*** |
 | $${2554.}$$ | ***Maximum Number of Integers to Choose From a Range I*** | $${\color{yellow} Medium}$$ | [Problem2554](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/) | [Hints](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/solutions/4631344/maximum-number-of-integers-to-choose-from-range-i-simplified-java/) | ***Sort, Range Detection*** | ***Paypal*** |
 
-### ${\color{lightblue} Hard \space Questions \space - \space (6 \space Solved)}$
+### ${\color{lightblue} Hard \space Questions \space - \space (2 \space Solved)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Binary \space Search \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
