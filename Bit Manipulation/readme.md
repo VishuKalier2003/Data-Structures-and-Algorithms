@@ -4,7 +4,7 @@ This folder contains questions solved specifically for Bit Manipulation.
 
 ## ${\color{lightblue} Question \space Folder}$
 
-### ${\color{lightblue} Easy \space Questions}$
+### ${\color{lightblue} Easy \space Questions - (Solved \space 11)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
@@ -22,7 +22,7 @@ This folder contains questions solved specifically for Bit Manipulation.
 
 ----
 
-### ${\color{lightblue} Medium \space Questions}$
+### ${\color{lightblue} Medium \space Questions - (Solved \space 9)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
@@ -38,7 +38,7 @@ This folder contains questions solved specifically for Bit Manipulation.
 
 ----
 
-### ${\color{lightblue} Hard \space Questions}$
+### ${\color{lightblue} Hard \space Questions - (Solved \space 1)}$
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
