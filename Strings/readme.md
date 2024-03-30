@@ -29,4 +29,11 @@ This folder contains questions solved specifically for Strings.
 | $${2129.}$$ | ***Capitalize the Title*** | $${\color{lightgreen} Easy}$$ | [Problem2129](https://leetcode.com/problems/capitalize-the-title/description/) | [Hints](https://leetcode.com/problems/capitalize-the-title/solutions/4940044/capitalize-the-title-simplified-java/) | ***Streams*** | ***Adobe*** |
 | $${2124.}$$ | ***Check If All A's appear before All B's*** | $${\color{lightgreen} Easy}$$ | [Problem2124](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/) | [Hints](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/solutions/4940086/check-if-all-a-s-appear-before-all-b-s-simplified-java/) | ***Two Pointers*** | ***Yahoo*** |
 | $${2185.}$$ | ***Counting Words With a Given Prefix*** | $${\color{lightgreen} Easy}$$ | [Problem2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) | [Hints](https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/4940787/counting-words-with-a-given-prefix-simplified-java/) | ***Streams, Pattern Matching*** | ***Microsoft, Apple*** |
+| $${2255.}$$ | ***Count Prefixes of a Given String*** | $${\color{lightgreen} Easy}$$ | [Problem2255](https://leetcode.com/problems/count-prefixes-of-a-given-string/description/) | [Hints](https://leetcode.com/problems/count-prefixes-of-a-given-string/solutions/4945112/count-prefixes-of-a-given-string-simplified-java/) | ***Unique*** | ***Google, Microsoft*** |
+
+
+
+
+
+
 
