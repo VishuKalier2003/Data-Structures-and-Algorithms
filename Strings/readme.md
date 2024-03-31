@@ -31,7 +31,7 @@ This folder contains questions solved specifically for Strings.
 | $${2185.}$$ | ***Counting Words With a Given Prefix*** | $${\color{lightgreen} Easy}$$ | [Problem2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) | [Hints](https://leetcode.com/problems/counting-words-with-a-given-prefix/solutions/4940787/counting-words-with-a-given-prefix-simplified-java/) | ***Streams, Pattern Matching*** | ***Microsoft, Apple*** |
 | $${2255.}$$ | ***Count Prefixes of a Given String*** | $${\color{lightgreen} Easy}$$ | [Problem2255](https://leetcode.com/problems/count-prefixes-of-a-given-string/description/) | [Hints](https://leetcode.com/problems/count-prefixes-of-a-given-string/solutions/4945112/count-prefixes-of-a-given-string-simplified-java/) | ***Unique*** | ***Google, Microsoft*** |
 | $${2269.}$$ | ***Find the K-Beauty of Number*** | $${\color{lightgreen} Easy}$$ | [Problem2269](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | [Hints](https://leetcode.com/problems/find-the-k-beauty-of-a-number/solutions/4950228/find-k-beauty-of-a-number-simplified-java/) | ***Fixed Sliding Window, Streams*** | ***Google, Meta, Adobe*** |
-
+| $${2379.}$$ | ***Minimum Recolors to Get K Consecutive Black Blocks*** | $${\color{lightgreen} Easy}$$ | [Problem2379](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) | [Hints](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/solutions/4950308/minimum-recolors-to-get-k-consecutive-black-blocks-simplified-java/) | ***Fixed Sliding Window, Streams*** | ***Meta, Microsoft, Infosys*** |
 
 
 
