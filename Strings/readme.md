@@ -40,6 +40,6 @@ This folder contains questions solved specifically for Strings.
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} String \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${71.}$$ | ***Simplify Path*** | $${\color{yellow} Medium}$$ | [Problem71](https://leetcode.com/problems/simplify-path/description/) | [Hints](https://leetcode.com/problems/simplify-path/solutions/4987722/simplify-path-simplified-java/) | ***Stack Tower of Hanoi*** | ***Google, Meta, Apple, Microsoft*** |
-
+| $${299.}$$ | ***Bulls and Cows*** | $${\color{yellow} Medium}$$ | [Problem299](https://leetcode.com/problems/bulls-and-cows/description/) | [Hints](https://leetcode.com/problems/bulls-and-cows/solutions/4987954/bulls-and-cows-simplified-java/) | ***Frequency Map*** | ***Google, Meta*** |
 
 
