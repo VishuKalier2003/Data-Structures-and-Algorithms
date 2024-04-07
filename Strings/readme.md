@@ -6,7 +6,7 @@ This folder contains questions solved specifically for Strings.
 
 ### ${\color{lightblue} Easy \space Questions - (Solved \space 19)}$
 
-| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Bit \space Manipulation \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} String \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${434.}$$ | ***Number of Segments in a String*** | $${\color{lightgreen} Easy}$$ | [Problem434](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | [Hints](https://leetcode.com/problems/number-of-segments-in-a-string/solutions/4871418/number-of-segments-in-a-string-simplified-java/) | ***Regex, Stream*** | ***Meta*** |
 | $${459.}$$ | ***Repeated Substring Pattern*** | $${\color{lightgreen} Easy}$$ | [Problem459](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Hints](https://leetcode.com/problems/repeated-substring-pattern/solutions/4871583/repeated-substring-pattern-simplified-java/) | ***Pattern Matching*** | ***Adobe, Infosys*** |
@@ -33,7 +33,13 @@ This folder contains questions solved specifically for Strings.
 | $${2269.}$$ | ***Find the K-Beauty of Number*** | $${\color{lightgreen} Easy}$$ | [Problem2269](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/) | [Hints](https://leetcode.com/problems/find-the-k-beauty-of-a-number/solutions/4950228/find-k-beauty-of-a-number-simplified-java/) | ***Fixed Sliding Window, Streams*** | ***Google, Meta, Adobe*** |
 | $${2379.}$$ | ***Minimum Recolors to Get K Consecutive Black Blocks*** | $${\color{lightgreen} Easy}$$ | [Problem2379](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) | [Hints](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/solutions/4950308/minimum-recolors-to-get-k-consecutive-black-blocks-simplified-java/) | ***Fixed Sliding Window, Streams*** | ***Meta, Microsoft, Infosys*** |
 
+----
 
+### ${\color{lightblue} Medium \space Questions - (Solved \space 19)}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} String \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
+|-|-|-|-|-|-|-|
+| $${71.}$$ | ***Simplify Path*** | $${\color{yellow} Medium}$$ | [Problem71](https://leetcode.com/problems/simplify-path/description/) | [Hints](https://leetcode.com/problems/simplify-path/solutions/4987722/simplify-path-simplified-java/) | ***Stack Tower of Hanoi*** | ***Google, Meta, Apple, Microsoft*** |
 
 
 
