@@ -41,5 +41,9 @@ This folder contains questions solved specifically for Strings.
 |-|-|-|-|-|-|-|
 | $${71.}$$ | ***Simplify Path*** | $${\color{yellow} Medium}$$ | [Problem71](https://leetcode.com/problems/simplify-path/description/) | [Hints](https://leetcode.com/problems/simplify-path/solutions/4987722/simplify-path-simplified-java/) | ***Stack Tower of Hanoi*** | ***Google, Meta, Apple, Microsoft*** |
 | $${299.}$$ | ***Bulls and Cows*** | $${\color{yellow} Medium}$$ | [Problem299](https://leetcode.com/problems/bulls-and-cows/description/) | [Hints](https://leetcode.com/problems/bulls-and-cows/solutions/4987954/bulls-and-cows-simplified-java/) | ***Frequency Map*** | ***Google, Meta*** |
+| $${318.}$$ | ***Maximum Product of Word Lengths*** | $${\color{yellow} Medium}$$ | [Problem318](https://leetcode.com/problems/maximum-product-of-word-lengths/description/) | [Hints](https://leetcode.com/problems/maximum-product-of-word-lengths/solutions/5002206/maximum-product-of-word-lengths-simplified-java/) | ***Bit Masking*** | ***Google, Meta*** |
+
+
+
 
 
