@@ -46,7 +46,7 @@ This folder contains questions solved specifically for Strings.
 | $${524.}$$ | ***Longest Word in Dictionary through Deleting*** | $${\color{yellow} Medium}$$ | [Problem524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) | [Hints](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/solutions/5015209/longest-word-in-dictionary-through-deleting-java-simplified/) | ***Two Pointers, Greedy*** | ***TCS, Amazon*** |
 | $${583.}$$ | ***Delete Operation for Two Strings*** | $${\color{yellow} Medium}$$ | [Problem583](https://leetcode.com/problems/delete-operation-for-two-strings/description/) | [Hints](https://leetcode.com/problems/delete-operation-for-two-strings/solutions/5015312/delete-operations-for-two-strings-simplified-java/) | ***2D dp, Tabulation, LCS*** | ***Amazon, Google, Meta*** |
 | $${784.}$$ | ***Letter Case Permutation*** | $${\color{yellow} Medium}$$ | [Problem784](https://leetcode.com/problems/letter-case-permutation/description/) | [Hints](https://leetcode.com/problems/letter-case-permutation/solutions/5016747/letter-case-permutation-simplified-java/) | ***Recursion, Unique, Stream*** | ***Adobe, Google*** |
-
+| $${791.}$$ | ***Custom Sort String*** | $${\color{yellow} Medium}$$ | [Problem791](https://leetcode.com/problems/custom-sort-string/description/) | [Hints](https://leetcode.com/problems/custom-sort-string/solutions/5019194/custom-sort-string-simplified-java/) | ***Frequency Map*** | ***Adobe, Flipkart*** |
 
 
 
