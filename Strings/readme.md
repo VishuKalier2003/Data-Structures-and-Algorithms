@@ -48,6 +48,7 @@ This folder contains questions solved specifically for Strings.
 | $${784.}$$ | ***Letter Case Permutation*** | $${\color{yellow} Medium}$$ | [Problem784](https://leetcode.com/problems/letter-case-permutation/description/) | [Hints](https://leetcode.com/problems/letter-case-permutation/solutions/5016747/letter-case-permutation-simplified-java/) | ***Recursion, Unique, Stream*** | ***Adobe, Google*** |
 | $${791.}$$ | ***Custom Sort String*** | $${\color{yellow} Medium}$$ | [Problem791](https://leetcode.com/problems/custom-sort-string/description/) | [Hints](https://leetcode.com/problems/custom-sort-string/solutions/5019194/custom-sort-string-simplified-java/) | ***Frequency Map*** | ***Adobe, Flipkart*** |
 | $${792.}$$ | ***Number of Matching Subsequences*** | $${\color{yellow} Medium}$$ | [Problem792](https://leetcode.com/problems/number-of-matching-subsequences/description/) | [Hints](https://leetcode.com/problems/number-of-matching-subsequences/solutions/5019259/number-of-matching-subsequences-simplified-java/) | ***Two Pointers, Greedy, Subsequence, Frequency Map*** | ***TCS, GeeksforGeeks, Amazon*** |
+| ${1023.}$$ | ***Camelcase Matching*** | $${\color{yellow} Medium}$$ | [Problem1023](https://leetcode.com/problems/camelcase-matching/description/) | [Hints](https://leetcode.com/problems/camelcase-matching/solutions/5020413/camelcase-matching-simplified-java/) | ***Two Pointers, Greedy, Subsequence, Pattern Matching*** | ***Amazon, Microsoft*** |
 
 
 
