@@ -50,6 +50,6 @@ This folder contains questions solved specifically for Strings.
 | $${792.}$$ | ***Number of Matching Subsequences*** | $${\color{yellow} Medium}$$ | [Problem792](https://leetcode.com/problems/number-of-matching-subsequences/description/) | [Hints](https://leetcode.com/problems/number-of-matching-subsequences/solutions/5019259/number-of-matching-subsequences-simplified-java/) | ***Two Pointers, Greedy, Subsequence, Frequency Map*** | ***TCS, GeeksforGeeks, Amazon*** |
 | $${1023.}$$ | ***Camelcase Matching*** | $${\color{yellow} Medium}$$ | [Problem1023](https://leetcode.com/problems/camelcase-matching/description/) | [Hints](https://leetcode.com/problems/camelcase-matching/solutions/5020413/camelcase-matching-simplified-java/) | ***Two Pointers, Greedy, Subsequence, Pattern Matching*** | ***Amazon, Microsoft*** |
 | $${1143.}$$ | ***Longest Common Subsequence*** | $${\color{yellow} Medium}$$ | [Problem1143](https://leetcode.com/problems/longest-common-subsequence/description/) | [Hints](https://leetcode.com/problems/longest-common-subsequence/solutions/5062380/longest-common-subsequence-simplified-java/) | ***2D dp, Tabulation, LCS*** | ***Amazon, Google*** | 
-
+| $${1400.}$$ | ***Construct K Palindromic Strings*** | $${\color{yellow} Medium}$$ | [Problem1400](https://leetcode.com/problems/construct-k-palindrome-strings/description/) | [Hints](https://leetcode.com/problems/construct-k-palindrome-strings/solutions/5062474/construct-k-palindromic-strings-simplified-java/) | ***Frequency Map*** | ***Amazon, Google, Microsoft*** |
 
 
