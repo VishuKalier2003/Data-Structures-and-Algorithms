@@ -52,4 +52,13 @@ This folder contains questions solved specifically for Strings.
 | $${1143.}$$ | ***Longest Common Subsequence*** | $${\color{yellow} Medium}$$ | [Problem1143](https://leetcode.com/problems/longest-common-subsequence/description/) | [Hints](https://leetcode.com/problems/longest-common-subsequence/solutions/5062380/longest-common-subsequence-simplified-java/) | ***2D dp, Tabulation, LCS*** | ***Amazon, Google*** | 
 | $${1400.}$$ | ***Construct K Palindromic Strings*** | $${\color{yellow} Medium}$$ | [Problem1400](https://leetcode.com/problems/construct-k-palindrome-strings/description/) | [Hints](https://leetcode.com/problems/construct-k-palindrome-strings/solutions/5062474/construct-k-palindromic-strings-simplified-java/) | ***Frequency Map*** | ***Amazon, Google, Microsoft*** |
 | $${1717.}$$ | ***Maximum Score From Removing Substrings*** | $${\color{yellow} Medium}$$ | [Problem1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) | [Hints](https://leetcode.com/problems/maximum-score-from-removing-substrings/solutions/5072072/maximum-score-from-removing-substrings-simplified-java/) | ***Stack Elimination*** | ***Google, Adobe*** |
+| $${1769.}$$ | ***Minimum Number of Operations to Move All Balls to Each Box*** | $${\color{yellow} Medium}$$ | [Problem1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | [Hints](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/solutions/5072168/minimum-number-of-operations-to-move-all-balls-to-each-box-simplified-java/) | ***Unique*** | ***Meta, Spotify*** |
+
+
+
+
+
+
+
+
 
