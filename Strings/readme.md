@@ -53,7 +53,7 @@ This folder contains questions solved specifically for Strings.
 | $${1400.}$$ | ***Construct K Palindromic Strings*** | $${\color{yellow} Medium}$$ | [Problem1400](https://leetcode.com/problems/construct-k-palindrome-strings/description/) | [Hints](https://leetcode.com/problems/construct-k-palindrome-strings/solutions/5062474/construct-k-palindromic-strings-simplified-java/) | ***Frequency Map*** | ***Amazon, Google, Microsoft*** |
 | $${1717.}$$ | ***Maximum Score From Removing Substrings*** | $${\color{yellow} Medium}$$ | [Problem1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) | [Hints](https://leetcode.com/problems/maximum-score-from-removing-substrings/solutions/5072072/maximum-score-from-removing-substrings-simplified-java/) | ***Stack Elimination*** | ***Google, Adobe*** |
 | $${1769.}$$ | ***Minimum Number of Operations to Move All Balls to Each Box*** | $${\color{yellow} Medium}$$ | [Problem1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | [Hints](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/solutions/5072168/minimum-number-of-operations-to-move-all-balls-to-each-box-simplified-java/) | ***Unique*** | ***Meta, Spotify*** |
-
+| $${2002.}$$ | ***Maximum Product of the Length of Two Palindromic Subsequences*** | $${\color{yellow} Medium}$$ | [Problem2002](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/) | [Hints](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | ***LPS, Subsequence, 2D dp, Memonisation, Two Pointers*** | ***Microsoft, Google, Meta, Amazon*** |
 
 
 
