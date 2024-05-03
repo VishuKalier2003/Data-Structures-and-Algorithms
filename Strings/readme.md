@@ -56,7 +56,7 @@ This folder contains questions solved specifically for Strings.
 | $${2002.}$$ | ***Maximum Product of the Length of Two Palindromic Subsequences*** | $${\color{yellow} Medium}$$ | [Problem2002](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/) | [Hints](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | ***LPS, Subsequence, 2D dp, Memonisation, Two Pointers*** | ***Microsoft, Google, Meta, Amazon*** |
 | $${2222.}$$ | ***Number of Ways to Select Buildings*** | $${\color{yellow} Medium}$$ | [Problem2222](https://leetcode.com/problems/number-of-ways-to-select-buildings/description/) | [Hints](https://leetcode.com/problems/number-of-ways-to-select-buildings/solutions/5083562/number-of-ways-to-select-buildings-simplified-java/) | ***3D dp, Memonisation*** | ***Amazon, Infosys*** |
 | $${2284.}$$ | ***Sender With Largest Word Count*** | $${\color{yellow} Medium}$$ | [Problem2284](https://leetcode.com/problems/sender-with-largest-word-count/description/) | [Hints](https://leetcode.com/problems/sender-with-largest-word-count/solutions/5083687/sender-with-largest-word-count-simplified-java/) | ***Frequency Map*** | ***Infosys, Intel*** | 
-
+| $${2947.}$$ | ***Count Beautiful Subtrings*** | $${\color{yellow} Medium}$$ | [Problem2947](https://leetcode.com/problems/count-beautiful-substrings-i/description/) | [Hints](https://leetcode.com/problems/count-beautiful-substrings-i/solutions/5104770/count-beautiful-substrings-simplified-java/) | ***Two Pointers*** | ***Adobe*** |
 
 
 
