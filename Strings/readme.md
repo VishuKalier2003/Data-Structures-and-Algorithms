@@ -67,6 +67,7 @@ This folder contains questions solved specifically for Strings.
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} String \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
 |-|-|-|-|-|-|-|
 | $${115.}$$ | ***Distinct Subsequences*** | $${\color{red} Hard}$$ | [Problem115](https://leetcode.com/problems/distinct-subsequences/description/) | [Hints](https://leetcode.com/problems/distinct-subsequences/solutions/5105040/distinct-subsequences-simplified-java/) | ***2D dp, Memonisation*** | ***Google, Meta, Microsoft*** |
+| $${127.}$$ | ***Word Ladder*** | $${\color{red} Hard}$$ | [Problem127](https://leetcode.com/problems/word-ladder/description/) | [Hints](https://leetcode.com/problems/word-ladder/solutions/5109223/word-ladder-simplified-java/) | ***Graph, BFS*** | ***Amazon, Adobe, Intel*** |
 
 
 
