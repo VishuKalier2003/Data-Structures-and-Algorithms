@@ -59,6 +59,20 @@ This folder contains questions solved specifically for Strings.
 | $${2947.}$$ | ***Count Beautiful Subtrings*** | $${\color{yellow} Medium}$$ | [Problem2947](https://leetcode.com/problems/count-beautiful-substrings-i/description/) | [Hints](https://leetcode.com/problems/count-beautiful-substrings-i/solutions/5104770/count-beautiful-substrings-simplified-java/) | ***Two Pointers*** | ***Adobe*** |
 
 
+----
+
+
+### ${\color{lightblue} Hard \space Questions - (Solved \space 19)}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Question \space Name}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Links}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} String \space Concepts}$$ | $${\color{lightblue} Companies}$$ |
+|-|-|-|-|-|-|-|
+| $${115.}$$ | ***Distinct Subsequences*** | $${\color{red} Hard}$$ | [Problem115](https://leetcode.com/problems/distinct-subsequences/description/) | [Hints](https://leetcode.com/problems/distinct-subsequences/solutions/5105040/distinct-subsequences-simplified-java/) | ***2D dp, Memonisation*** | ***Google, Meta, Microsoft*** |
+
+
+
+
+
+
 
 
 
