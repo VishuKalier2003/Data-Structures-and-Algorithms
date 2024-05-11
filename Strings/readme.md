@@ -68,7 +68,7 @@ This folder contains questions solved specifically for Strings.
 |-|-|-|-|-|-|-|
 | $${115.}$$ | ***Distinct Subsequences*** | $${\color{red} Hard}$$ | [Problem115](https://leetcode.com/problems/distinct-subsequences/description/) | [Hints](https://leetcode.com/problems/distinct-subsequences/solutions/5105040/distinct-subsequences-simplified-java/) | ***2D dp, Memonisation*** | ***Google, Meta, Microsoft*** |
 | $${127.}$$ | ***Word Ladder*** | $${\color{red} Hard}$$ | [Problem127](https://leetcode.com/problems/word-ladder/description/) | [Hints](https://leetcode.com/problems/word-ladder/solutions/5109223/word-ladder-simplified-java/) | ***Graph, BFS*** | ***Amazon, Adobe, Intel*** |
-
+| $${940.}$$ | ***Distinct Subsequences II*** | $${\color{red} Hard}$$ | [Problem940](https://leetcode.com/problems/distinct-subsequences-ii/description/) | [Hints](https://leetcode.com/problems/distinct-subsequences-ii/solutions/5141801/distinct-subsequences-ii-simplified-java/) | ***1D dp, Tabulation*** | ***Amazon, Adobe*** |
 
 
 
