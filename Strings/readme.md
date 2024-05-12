@@ -71,6 +71,7 @@ This folder contains questions solved specifically for Strings.
 | $${940.}$$ | ***Distinct Subsequences II*** | $${\color{red} Hard}$$ | [Problem940](https://leetcode.com/problems/distinct-subsequences-ii/description/) | [Hints](https://leetcode.com/problems/distinct-subsequences-ii/solutions/5141801/distinct-subsequences-ii-simplified-java/) | ***1D dp, Tabulation*** | ***Amazon, Adobe*** |
 | $${1092.}$$ | ***Shortest Common Supersequence*** | $${\color{red} Hard}$$ | [Problem1092](https://leetcode.com/problems/shortest-common-supersequence/description/) | [Hints](https://leetcode.com/problems/shortest-common-supersequence/solutions/5146637/shortes-common-subsequence-simplified-java/) | ***Supersequence, 2D dp, Tabulation*** | ***Microsoft, Accenture, Infosys*** |
 | $${1255.}$$ | ***Maximum Score Formed By Letters*** | $${\color{red} Hard}$$ | [Problem1255](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/) | [Hints](https://leetcode.com/problems/maximum-score-words-formed-by-letters/solutions/5146116/maximum-score-words-formed-by-letters-simplified-java/) | ***Backtracking, Bitmask*** | ***Amazon, Infosys, Intel*** |
+| $${2262.}$$ | ***Total Appeal of a String*** | $${\color{red} Hard}$$ | [Problem2262](https://leetcode.com/problems/total-appeal-of-a-string/description/) | [Hints](https://leetcode.com/problems/total-appeal-of-a-string/solutions/5148148/total-appeal-of-a-string-simplified-java/) | ***Substring DP, 1D dp, Tabulation*** | ***Google, Adobe, Spotify, Meta*** |
 
 
 
