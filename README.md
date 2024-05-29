@@ -14,8 +14,9 @@ The table provides the Questions in well-sorted fashion for Leetcode Platform.
 | $${2.}$$ | $${\color{lightgreen} Binary \space Tree }$$ | $${10}$$ | $${18}$$ | $${3}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/BinaryTree) |
 | $${3.}$$ | $${\color{lightgreen} Bit \space Manipulation}$$ | $${11}$$ | $${9}$$ | $${1}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Bit%20Manipulation) |
 | $${4.}$$ | $${\color{lightgreen} Dynamic \space Programming}$$ | $${4}$$ | $${10}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Dynamic%20Programming) |
-| $${5.}$$ | $${\color{lightgreen} Map \space and \space Set}$$ | $${14}$$ | $${3}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Maps) |
-| $${6.}$$ | $${\color{lightgreen} Strings}$$ | $${19}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Strings) |
+| $${5.}$$ | $${\color{lightgreen} Matrix}$$ | $${1}$$ | $${1}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Matrix) |
+| $${6.}$$ | $${\color{lightgreen} Map \space and \space Set}$$ | $${14}$$ | $${3}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Maps) |
+| $${7.}$$ | $${\color{lightgreen} Strings}$$ | $${19}$$ | $${0}$$ | $${0}$$ | [Folder](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Strings) |
 
 ----
 
