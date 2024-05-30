@@ -20,3 +20,7 @@ This folder contains questions solved specifically for Matrix Data Structure.
 | $${36.}$$ | ***Valid Sudoku*** | $${\color{yellow} Medium}$$ | [Problem36](https://leetcode.com/problems/valid-sudoku/description/) | [Hints](https://leetcode.com/problems/valid-sudoku/solutions/5224982/valid-sudoku-simplified-java/) | ***Order, Frequency Map*** | ***Amazon, TCS, Google*** |
 | $${840.}$$ | ***Magic Squares in Grid*** | $${\color{yellow} Medium}$$ | [Problem840](https://leetcode.com/problems/magic-squares-in-grid/description/) | [Hints](https://leetcode.com/problems/magic-squares-in-grid/solutions/5226175/magic-squares-in-grid-simplified-java/) | ***Order*** | ***TCS, Wipro*** |
 | $${934.}$$ | ***Shortest Bridge*** | $${\color{yellow} Medium}$$ | [Problem934](https://leetcode.com/problems/shortest-bridge/description/) | [Hints](https://leetcode.com/problems/shortest-bridge/solutions/5225614/shortest-bridge-simplified-java/) | ***Order, Depth*** | ***Microsoft, Amazon, Meta*** |
+| $${994.}$$ | ***Rotting Oranges*** | $${\color{yellow} Medium}$$ | [Problem994](https://leetcode.com/problems/rotting-oranges/submissions/1272044325/) | [Hints](https://leetcode.com/problems/rotting-oranges/solutions/5229255/rotting-oranges-simplified-java/) | ***Breadth*** | ***MIcrosoft, Apple, Adobe*** |
+
+
+
