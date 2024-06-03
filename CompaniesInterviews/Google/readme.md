@@ -11,4 +11,5 @@ This file contains all the questions asked by Google. The data has been taken fr
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Description}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Base\space / \space Premium}$$ |
 |-|-|-|-|-|-|
-| $${20.}$$ | ***Valid Parenthesis*** | $${\color{lightgreen} Easy}$$ | [Problem20](https://leetcode.com/problems/valid-parentheses/description/) | [Hints](https://leetcode.com/problems/valid-parentheses/solutions/5250279/valid-parenthesis-simplified-java/) | $${\color{green} Base}$$ | 
+| $${20.}$$ | ***Valid Parenthesis*** | $${\color{lightgreen} Easy}$$ | [Problem20](https://leetcode.com/problems/valid-parentheses/description/) | [Hints](https://leetcode.com/problems/valid-parentheses/solutions/5250279/valid-parenthesis-simplified-java/) | $${\color{green} Base}$$ |
+| $${66.}$$ | ***Plus One*** | $${\color{lightgreen} Easy}$$ | [Problem66](https://leetcode.com/problems/plus-one/description/) | [Hints](https://leetcode.com/problems/plus-one/solutions/5250546/plus-one-simplified-java/) | $${\color{green} Base}$$ | 
