@@ -22,8 +22,9 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${293.}$$ | ***Flip Game*** | $${\color{lightgreen} Easy}$$ | [Problem293](https://leetcode.com/problems/flip-game/description/) | [Hints](https://leetcode.com/problems/flip-game/description/) | $${\color{orange} Premium}$$ | 
 | $${326.}$$ | ***Power Of Three*** | $${\color{lightgreen} Easy}$$ | [Problem326](https://leetcode.com/problems/power-of-three/description/) | [Hints](https://leetcode.com/problems/power-of-three/solutions/5251215/power-of-three-simplified-java/) | $${\color{green} Base}$$ |
 | $${345.}$$ | ***Reverse Vowels of a String*** | $${\color{lightgreen} Easy}$$ | [Problem345](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Hints](https://leetcode.com/problems/reverse-vowels-of-a-string/solutions/5251306/reverse-vowels-of-a-string-simplified-java/) | $${\color{green} Base}$$ |
-
-
+| $${359.}$$ | ***Logger Rate Limiter*** | $${\color{lightgreen} Easy}$$ | [Problem359](https://leetcode.com/problems/logger-rate-limiter/description/) | [Hints](https://leetcode.com/problems/logger-rate-limiter/description/) | $${\color{orange} Premium}$$ | 
+| $${374.}$$ | ***Guess Number Higher or Lower*** | $${\color{lightgreen} Easy}$$ | [Problem374](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Hints](https://leetcode.com/problems/guess-number-higher-or-lower/solutions/5251399/guess-number-higher-or-lower-simplified-java/) | $${\color{green} Base}$$ |
+| $${389.}$$ | ***Find the Difference*** | $${\color{lightgreen} Easy}$$ | [Problem389](https://leetcode.com/problems/find-the-difference/description) | [Hints](https://leetcode.com/problems/find-the-difference/solutions/5251518/find-the-difference-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
