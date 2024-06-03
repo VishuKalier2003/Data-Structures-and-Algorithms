@@ -26,7 +26,13 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${374.}$$ | ***Guess Number Higher or Lower*** | $${\color{lightgreen} Easy}$$ | [Problem374](https://leetcode.com/problems/guess-number-higher-or-lower/description/) | [Hints](https://leetcode.com/problems/guess-number-higher-or-lower/solutions/5251399/guess-number-higher-or-lower-simplified-java/) | $${\color{green} Base}$$ |
 | $${389.}$$ | ***Find the Difference*** | $${\color{lightgreen} Easy}$$ | [Problem389](https://leetcode.com/problems/find-the-difference/description) | [Hints](https://leetcode.com/problems/find-the-difference/solutions/5251518/find-the-difference-simplified-java/) | $${\color{green} Base}$$ |
 | $${401.}$$ | ***Binary Watch*** | $${\color{lightgreen} Easy}$$ | [Problem401](https://leetcode.com/problems/binary-watch/description/) | [Hints](https://leetcode.com/problems/binary-watch/solutions/5252293/binary-watch-simplified-java/) | $${\color{green} Base}$$ |
-| $${409.}$$ | ***Longest Palindrome*** | $${\color{lightgreen} Easy}$$ | [Problem409](https://leetcode.com/problems/longest-palindrome/description/) | [Hints](https://leetcode.com/problems/longest-palindrome/solutions/5252500/longest-palindrome-simplified-java/) | $${\color{green} Base}$$ | 
+| $${409.}$$ | ***Longest Palindrome*** | $${\color{lightgreen} Easy}$$ | [Problem409](https://leetcode.com/problems/longest-palindrome/description/) | [Hints](https://leetcode.com/problems/longest-palindrome/solutions/5252500/longest-palindrome-simplified-java/) | $${\color{green} Base}$$ |
+| $${448.}$$ | ***Find All Numbers Disappeared in an Array*** | $${\color{lightgreen} Easy}$$ | [Problem448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Hints](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/5252631/find-all-numbers-disappeared-in-an-array-simplified-java/) | $${\color{green} Base}$$ |
+| $${459.}$$ | ***Repeated Substring Pattern*** | $${\color{lightgreen} Easy}$$ | [Problem459](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Hints](https://leetcode.com/problems/repeated-substring-pattern/solutions/5252708/repeated-substring-pattern-simplified-java/) | $${\color{green} Base}$$ |
+
+
+
+
 
 
 
