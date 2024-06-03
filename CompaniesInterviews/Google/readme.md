@@ -16,3 +16,16 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${163.}$$ | ***Missing Ranges*** | $${\color{lightgreen} Easy}$$ | [Problem163](https://leetcode.com/problems/missing-ranges/description/) | [Hints](https://leetcode.com/problems/missing-ranges/description/) | $${\color{orange} Premium}$$ |
 | $${231.}$$ | ***Power Of Two*** | $${\color{lightgreen} Easy}$$ | [Problem231](https://leetcode.com/problems/power-of-two/description/) | [Hints](https://leetcode.com/problems/power-of-two/solutions/5250760/power-of-two-simplified-java/) | $${\color{green} Base}$$ |
 | $${246.}$$ | ***Strobogrammatic Numbers*** | $${\color{lightgreen} Easy}$$ | [Problem246](https://leetcode.com/problems/strobogrammatic-number/description/) | [Hints](https://leetcode.com/problems/strobogrammatic-number/description/) | $${\color{orange} Premium}$$ |
+| $${257.}$$ | ***Binary Tree Paths*** | $${\color{lightgreen} Easy}$$ | [Problem257](https://leetcode.com/problems/binary-tree-paths/description/) | [Hints](https://leetcode.com/problems/binary-tree-paths/solutions/5251103/binary-tree-paths-simplified-java/) | $${\color{green} Base}$$ |
+| $${266.}$$ | ***Palindrome Permutation*** | $${\color{lightgreen} Easy}$$ | [Problem266](https://leetcode.com/problems/palindrome-permutation/description/) | [Hints](https://leetcode.com/problems/palindrome-permutation/description/) | $${\color{orange} Premium}$$ |
+| $${270.}$$ | ***Closest Binary Search Tree Value*** | $${\color{lightgreen} Easy}$$ | [Problem270](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | [Hints](https://leetcode.com/problems/closest-binary-search-tree-value/description/) | $${\color{orange} Premium}$$ | 
+| $${293.}$$ | ***Flip Game*** | $${\color{lightgreen} Easy}$$ | [Problem293](https://leetcode.com/problems/flip-game/description/) | [Hints](https://leetcode.com/problems/flip-game/description/) | $${\color{orange} Premium}$$ | 
+| $${326.}$$ | ***Power Of Three*** | $${\color{lightgreen} Easy}$$ | [Problem326](https://leetcode.com/problems/power-of-three/description/) | [Hints](https://leetcode.com/problems/power-of-three/solutions/5251215/power-of-three-simplified-java/) | $${\color{green} Base}$$ |
+| $${345.}$$ | ***Reverse Vowels of a String*** | $${\color{lightgreen} Easy}$$ | [Problem345](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Hints](https://leetcode.com/problems/reverse-vowels-of-a-string/solutions/5251306/reverse-vowels-of-a-string-simplified-java/) | $${\color{green} Base}$$ |
+
+
+
+
+
+
+
