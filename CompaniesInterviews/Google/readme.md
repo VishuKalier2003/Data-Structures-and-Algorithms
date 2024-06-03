@@ -14,3 +14,5 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${20.}$$ | ***Valid Parenthesis*** | $${\color{lightgreen} Easy}$$ | [Problem20](https://leetcode.com/problems/valid-parentheses/description/) | [Hints](https://leetcode.com/problems/valid-parentheses/solutions/5250279/valid-parenthesis-simplified-java/) | $${\color{green} Base}$$ |
 | $${66.}$$ | ***Plus One*** | $${\color{lightgreen} Easy}$$ | [Problem66](https://leetcode.com/problems/plus-one/description/) | [Hints](https://leetcode.com/problems/plus-one/solutions/5250546/plus-one-simplified-java/) | $${\color{green} Base}$$ | 
 | $${163.}$$ | ***Missing Ranges*** | $${\color{lightgreen} Easy}$$ | [Problem163](https://leetcode.com/problems/missing-ranges/description/) | [Hints](https://leetcode.com/problems/missing-ranges/description/) | $${\color{orange} Premium}$$ |
+| $${231.}$$ | ***Power Of Two*** | $${\color{lightgreen} Easy}$$ | [Problem231](https://leetcode.com/problems/power-of-two/description/) | [Hints](https://leetcode.com/problems/power-of-two/solutions/5250760/power-of-two-simplified-java/) | $${\color{green} Base}$$ |
+
