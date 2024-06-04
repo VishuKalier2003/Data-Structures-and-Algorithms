@@ -41,6 +41,21 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${643.}$$ | ***Maximum Average Subarray I*** | $${\color{lightgreen} Easy}$$ | [Problem643](https://leetcode.com/problems/maximum-average-subarray-i/description/) |  |  $${\color{green} Base}$$ |
 | $${657.}$$ | ***Robot Return to Origin*** | $${\color{lightgreen} Easy}$$ | [Problem657](https://leetcode.com/problems/robot-return-to-origin/description/) |   |  $${\color{green} Base}$$ |
 
+----
+
+## ${\color{lightblue} Medium \space Questions}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Description}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Base\space / \space Premium}$$ |
+|-|-|-|-|-|-|
+| $${17.}$$ | ***Letter Combinations of a Phone Number*** | $${\color{yellow} Medium}$$ | [Problem17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?source=submission-ac) | | $${\color{green} Base}$$ |
+| $${22.}$$ | ***Generate Parenthesis*** | $${\color{yellow} Medium}$$ | [Problem22](https://leetcode.com/problems/generate-parentheses/description/) | [Hints](https://leetcode.com/problems/generate-parentheses/solutions/5239947/generate-parenthesis-simplified-java/) | $${\color{green} Base}$ |
+
+
+
+
+
+
+
 
 
 
