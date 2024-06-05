@@ -56,7 +56,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${162.}$$ | ***Find Peak Element*** | $${\color{yellow} Medium}$$ | [Problem162](https://leetcode.com/problems/find-peak-element/description/) | | $${\color{green} Base}$$ |
 | $${200.}$$ | ***Number Of Islands*** | $${\color{yellow} Medium}$$ | [Problem200](https://leetcode.com/problems/number-of-islands/description/) | | $${\color{green} Base}$$ |
 | $${208.}$$ | ***Implement Trie*** | $${\color{yellow} Medium}$$ | [Problem208](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Hints](https://leetcode.com/problems/implement-trie-prefix-tree/solutions/5264998/implement-trie-simplified-java/) | $${\color{green} Base}$$ | 
-
+| $${230.}$$ | ***Kth Smallest Element in a Binary Search Tree*** | $${\color{yellow} Medium}$$ | [Problem230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Hints](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/5265216/kth-smallest-element-in-a-binary-search-tree-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
