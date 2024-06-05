@@ -54,6 +54,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${155.}$$ | ***Min Stack*** | $${\color{yellow} Medium}$$ | [Problem155](https://leetcode.com/problems/min-stack/description/) | | $${\color{green} Base}$$ |
 | $${159.}$$ | ***Longest Substring with Atmost Two Distinct Characters*** | $${\color{yellow} Medium}$$ | [Problem159](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [Hints](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | $${\color{orange} Premium}$$ |
 | $${162.}$$ | ***Find Peak Element*** | $${\color{yellow} Medium}$$ | [Problem162](https://leetcode.com/problems/find-peak-element/description/) | | $${\color{green} Base}$$ |
+| $${200.}$$ | ***Number Of Islands*** | $${\color{yellow} Medium}$$ | [Problem200](https://leetcode.com/problems/number-of-islands/description/) | | $${\color{green} Base}$$ |
 
 
 
