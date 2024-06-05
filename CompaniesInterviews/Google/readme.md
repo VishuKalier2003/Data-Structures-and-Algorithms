@@ -51,7 +51,9 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${22.}$$ | ***Generate Parenthesis*** | $${\color{yellow} Medium}$$ | [Problem22](https://leetcode.com/problems/generate-parentheses/description/) | [Hints](https://leetcode.com/problems/generate-parentheses/solutions/5239947/generate-parenthesis-simplified-java/) | $${\color{green} Base}$$ |
 | $${128.}$$ | ***Longest Consecutive Sequence*** | $${\color{yellow} Medium}$$ | [Problem128](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Hints](https://leetcode.com/problems/longest-consecutive-sequence/solutions/5262152/longest-consecutive-sequence-simplified-java/) | $${\color{green} Base}$$ |
 | $${146.}$$ | ***LRU Cache*** | $${\color{yellow} Medium}$$ | [Problem146](https://leetcode.com/problems/lru-cache/description/) |  | $${\color{green} Base}$$ |
-
+| $${155.}$$ | ***Min Stack*** | $${\color{yellow} Medium}$$ | [Problem155](https://leetcode.com/problems/min-stack/description/) | | $${\color{green} Base}$$ |
+| $${159.}$$ | ***Longest Substring with Atmost Two Distinct Characters*** | $${\color{yellow} Medium}$$ | [Problem159](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [Hints](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | $${\color{orange} Premium}$$ |
+| $${162.}$$ | ***Find Peak Element*** | $${\color{yellow} Medium}$$ | [Problem162](https://leetcode.com/problems/find-peak-element/description/) | | $${\color{green} Base}$$ |
 
 
 
