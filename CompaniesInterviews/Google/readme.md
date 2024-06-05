@@ -57,11 +57,12 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${200.}$$ | ***Number Of Islands*** | $${\color{yellow} Medium}$$ | [Problem200](https://leetcode.com/problems/number-of-islands/description/) | | $${\color{green} Base}$$ |
 | $${208.}$$ | ***Implement Trie*** | $${\color{yellow} Medium}$$ | [Problem208](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Hints](https://leetcode.com/problems/implement-trie-prefix-tree/solutions/5264998/implement-trie-simplified-java/) | $${\color{green} Base}$$ | 
 | $${230.}$$ | ***Kth Smallest Element in a Binary Search Tree*** | $${\color{yellow} Medium}$$ | [Problem230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Hints](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/5265216/kth-smallest-element-in-a-binary-search-tree-simplified-java/) | $${\color{green} Base}$$ |
-| $${249.}$$ | ***Group Shifted Strings*** | $${\color{yellow} Medium}$$ | [Problem249](https://leetcode.com/problems/group-shifted-strings/description/) |  |  $${\color{orange} Premium}$$ |
-| $${251.}$$ | ***Flatten 2D Vector*** | $${\color{yellow} Medium}$$ | [Problem251](https://leetcode.com/problems/flatten-2d-vector/description/) |  |  $${\color{orange} Premium}$$ |
-| $${253.}$$ | ***Meeting Rooms II*** | $${\color{yellow} Medium}$$ | [Problem253](https://leetcode.com/problems/meeting-rooms-ii/description/) |  |  $${\color{orange} Premium}$$ |
-| $${261.}$$ | ***Graph Valid Tree*** | $${\color{yellow} Medium}$$ | [Problem261](https://leetcode.com/problems/graph-valid-tree/description/) |  |  $${\color{orange} Premium}$$ |
-
+| $${249.}$$ | ***Group Shifted Strings*** | $${\color{yellow} Medium}$$ | [Problem249](https://leetcode.com/problems/group-shifted-strings/description/) | [Hints](https://leetcode.com/problems/paint-fence/description/) |  $${\color{orange} Premium}$$ |
+| $${251.}$$ | ***Flatten 2D Vector*** | $${\color{yellow} Medium}$$ | [Problem251](https://leetcode.com/problems/flatten-2d-vector/description/) | [Hints](https://leetcode.com/problems/paint-fence/description/) |  $${\color{orange} Premium}$$ |
+| $${253.}$$ | ***Meeting Rooms II*** | $${\color{yellow} Medium}$$ | [Problem253](https://leetcode.com/problems/meeting-rooms-ii/description/) | [Hints](https://leetcode.com/problems/paint-fence/description/) |  $${\color{orange} Premium}$$ |
+| $${261.}$$ | ***Graph Valid Tree*** | $${\color{yellow} Medium}$$ | [Problem261](https://leetcode.com/problems/graph-valid-tree/description/) | [Hints](https://leetcode.com/problems/paint-fence/description/) |  $${\color{orange} Premium}$$ |
+| $${276.}$$ | ***Paint Fence*** | $${\color{yellow} Medium}$$ | [Problem276](https://leetcode.com/problems/paint-fence/description/) | [Hints](https://leetcode.com/problems/paint-fence/description/) | $${\color{orange} Premium}$$ |
+| $${279.}$$ | ***Perfect Squares*** | $${\color{yellow} Medium}$$ | [Problem279](https://leetcode.com/problems/perfect-squares/description/) | [Hints](https://leetcode.com/problems/perfect-squares/solutions/5265450/perfect-squares-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
