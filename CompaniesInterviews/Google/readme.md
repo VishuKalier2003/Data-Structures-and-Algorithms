@@ -30,7 +30,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${448.}$$ | ***Find All Numbers Disappeared in an Array*** | $${\color{lightgreen} Easy}$$ | [Problem448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Hints](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/5252631/find-all-numbers-disappeared-in-an-array-simplified-java/) | $${\color{green} Base}$$ |
 | $${459.}$$ | ***Repeated Substring Pattern*** | $${\color{lightgreen} Easy}$$ | [Problem459](https://leetcode.com/problems/repeated-substring-pattern/description/) | [Hints](https://leetcode.com/problems/repeated-substring-pattern/solutions/5252708/repeated-substring-pattern-simplified-java/) | $${\color{green} Base}$$ |
 | $${482.}$$ | ***License Key Formatting*** | $${\color{lightgreen} Easy}$$ | [Problem482](https://leetcode.com/problems/license-key-formatting/description/) | [Hints](https://leetcode.com/problems/license-key-formatting/solutions/5253891/license-key-formatting-simplified-java/) | $${\color{green} Base}$$ |
-| $${485.}$$ | ***Max Consecutive Ones*** | $${\color{lightgreen} Easy}$$ | [Problem485](https://leetcode.com/problems/max-consecutive-ones/description/) | | $${\color{green} Base}$$ |
+| $${485.}$$ | ***Max Consecutive Ones*** | $${\color{lightgreen} Easy}$$ | [Problem485](https://leetcode.com/problems/max-consecutive-ones/description/) | [Hints](https://leetcode.com/problems/max-consecutive-ones/solutions/5261605/max-consecutive-ones-simplified-java/) | $${\color{green} Base}$$ |
 | $${501.}$$ | ***Find Mode In Binary Search Tree*** | $${\color{lightgreen} Easy}$$ | [Problem501](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) |  | $${\color{green} Base}$$ |
 | $${506.}$$ | ***Relative Ranks*** | $${\color{lightgreen} Easy}$$ | [Problem506](https://leetcode.com/problems/relative-ranks/description/) |  | $${\color{green} Base}$$ |
 | $${520.}$$ | ***Detect Capital*** | $${\color{lightgreen} Easy}$$ | [Problem520](https://leetcode.com/problems/detect-capital/description/) |  |  $${\color{green} Base}$$ |
@@ -48,8 +48,8 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Description}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Base\space / \space Premium}$$ |
 |-|-|-|-|-|-|
 | $${17.}$$ | ***Letter Combinations of a Phone Number*** | $${\color{yellow} Medium}$$ | [Problem17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?source=submission-ac) | | $${\color{green} Base}$$ |
-| $${22.}$$ | ***Generate Parenthesis*** | $${\color{yellow} Medium}$$ | [Problem22](https://leetcode.com/problems/generate-parentheses/description/) | [Hints](https://leetcode.com/problems/generate-parentheses/solutions/5239947/generate-parenthesis-simplified-java/) | $${\color{green} Base}$ |
-
+| $${22.}$$ | ***Generate Parenthesis*** | $${\color{yellow} Medium}$$ | [Problem22](https://leetcode.com/problems/generate-parentheses/description/) | [Hints](https://leetcode.com/problems/generate-parentheses/solutions/5239947/generate-parenthesis-simplified-java/) | $${\color{green} Base}$$ |
+| $${128.}$$ | ***Longest Consecutive Sequence*** | $${\color{yellow} Medium}$$ | [Problem128](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Hints](https://leetcode.com/problems/longest-consecutive-sequence/solutions/5262152/longest-consecutive-sequence-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
