@@ -63,7 +63,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${261.}$$ | ***Graph Valid Tree*** | $${\color{yellow} Medium}$$ | [Problem261](https://leetcode.com/problems/graph-valid-tree/description/) | [Hints](https://leetcode.com/problems/paint-fence/description/) |  $${\color{orange} Premium}$$ |
 | $${276.}$$ | ***Paint Fence*** | $${\color{yellow} Medium}$$ | [Problem276](https://leetcode.com/problems/paint-fence/description/) | [Hints](https://leetcode.com/problems/paint-fence/description/) | $${\color{orange} Premium}$$ |
 | $${279.}$$ | ***Perfect Squares*** | $${\color{yellow} Medium}$$ | [Problem279](https://leetcode.com/problems/perfect-squares/description/) | [Hints](https://leetcode.com/problems/perfect-squares/solutions/5265450/perfect-squares-simplified-java/) | $${\color{green} Base}$$ |
-
+| $${286.}$$ | ***Walls and Gates*** | $${\color{yellow} Medium}$$ | [Problem286](https://leetcode.com/problems/walls-and-gates/) | [Hints](https://leetcode.com/problems/walls-and-gates/) | $${\color{orange} Premium}$$ |
 
 
 
