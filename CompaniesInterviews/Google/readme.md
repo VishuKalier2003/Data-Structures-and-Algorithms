@@ -64,6 +64,11 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${276.}$$ | ***Paint Fence*** | $${\color{yellow} Medium}$$ | [Problem276](https://leetcode.com/problems/paint-fence/description/) | [Hints](https://leetcode.com/problems/paint-fence/description/) | $${\color{orange} Premium}$$ |
 | $${279.}$$ | ***Perfect Squares*** | $${\color{yellow} Medium}$$ | [Problem279](https://leetcode.com/problems/perfect-squares/description/) | [Hints](https://leetcode.com/problems/perfect-squares/solutions/5265450/perfect-squares-simplified-java/) | $${\color{green} Base}$$ |
 | $${286.}$$ | ***Walls and Gates*** | $${\color{yellow} Medium}$$ | [Problem286](https://leetcode.com/problems/walls-and-gates/) | [Hints](https://leetcode.com/problems/walls-and-gates/) | $${\color{orange} Premium}$$ |
+| $${289.}$$ | ***Game of Life*** | $${\color{yellow} Medium}$$ | [Problem289](https://leetcode.com/problems/game-of-life/description/) | [Hints](https://leetcode.com/problems/game-of-life/solutions/5266849/game-of-life-simplified-java/) | $${\color{green} Base}$$ |
+| $${294.}$$ | ***Flip Game II*** | $${\color{yellow} Medium}$$ | [Problem294](https://leetcode.com/problems/flip-game-ii/description/) | [Hints](https://leetcode.com/problems/flip-game-ii/description/) | $${\color{orange} Premium}$$ |
+| $${298.}$$ | ***Binary Tree Longest Consecutive Sequence*** | $${\color{yellow} Medium}$$ | [Problem298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | [Hints](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | $${\color{orange} Premium}$$ |
+| $${310.}$$ | ***Minimum Height Trees*** | $${\color{yellow} Medium}$$ | [Problem310](https://leetcode.com/problems/minimum-height-trees/description/) | | $${\color{green} Base}$$ |
+
 
 
 
