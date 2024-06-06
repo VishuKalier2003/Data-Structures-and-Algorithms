@@ -34,12 +34,12 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${501.}$$ | ***Find Mode In Binary Search Tree*** | $${\color{lightgreen} Easy}$$ | [Problem501](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | [Hints](https://leetcode.com/problems/find-mode-in-binary-search-tree/solutions/5262672/find-mode-in-binary-search-tree-simplified-java/)  | $${\color{green} Base}$$ |
 | $${506.}$$ | ***Relative Ranks*** | $${\color{lightgreen} Easy}$$ | [Problem506](https://leetcode.com/problems/relative-ranks/description/) | [Hints](https://leetcode.com/problems/relative-ranks/solutions/5264136/relative-ranks-simplified-java/) | $${\color{green} Base}$$ |
 | $${520.}$$ | ***Detect Capital*** | $${\color{lightgreen} Easy}$$ | [Problem520](https://leetcode.com/problems/detect-capital/description/) | [Hints](https://leetcode.com/problems/detect-capital/solutions/5264143/detect-capital-simplified-java/) |  $${\color{green} Base}$$ |
-| $${530.}$$ | ***Minimum Absolute Difference in BST*** | $${\color{lightgreen} Easy}$$ | [Problem530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | | $${\color{green} Base}$$ |
+| $${530.}$$ | ***Minimum Absolute Difference in BST*** | $${\color{lightgreen} Easy}$$ | [Problem530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [Hints](https://leetcode.com/problems/minimum-absolute-difference-in-bst/solutions/5267972/minimum-absolute-difference-in-a-bst-simplified-java/) | $${\color{green} Base}$$ |
 | $${543.}$$ | ***Diameter of Binary Tree*** | $${\color{lightgreen} Easy}$$ | [Problem543](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Hints](https://leetcode.com/problems/diameter-of-binary-tree/solutions/4483247/diameter-of-binary-tree-simplified/) | $${\color{green} Base}$$ |
-| $${572.}$$ | ***Subtree of Another Tree*** | $${\color{lightgreen} Easy}$$ | [Problem572](https://leetcode.com/problems/subtree-of-another-tree/description/) | | $${\color{green} Base}$$ |
+| $${572.}$$ | ***Subtree of Another Tree*** | $${\color{lightgreen} Easy}$$ | [Problem572](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Hints](https://leetcode.com/problems/subtree-of-another-tree/solutions/5267994/subtree-of-another-tree-simplified-java/) | $${\color{green} Base}$$ |
 | $${604.}$$ | ***Design Compressed String Iterator*** | $${\color{lightgreen} Easy}$$ | [Problem](https://leetcode.com/problems/design-compressed-string-iterator/description/) | [Hints](https://leetcode.com/problems/design-compressed-string-iterator/description/) | $${\color{orange} Premium}$$ |
-| $${643.}$$ | ***Maximum Average Subarray I*** | $${\color{lightgreen} Easy}$$ | [Problem643](https://leetcode.com/problems/maximum-average-subarray-i/description/) |  |  $${\color{green} Base}$$ |
-| $${657.}$$ | ***Robot Return to Origin*** | $${\color{lightgreen} Easy}$$ | [Problem657](https://leetcode.com/problems/robot-return-to-origin/description/) |   |  $${\color{green} Base}$$ |
+| $${643.}$$ | ***Maximum Average Subarray I*** | $${\color{lightgreen} Easy}$$ | [Problem643](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Hints](https://leetcode.com/problems/maximum-average-subarray-i/solutions/5268003/maximum-average-subarray-i-simplified-java/) |  $${\color{green} Base}$$ |
+| $${657.}$$ | ***Robot Return to Origin*** | $${\color{lightgreen} Easy}$$ | [Problem657](https://leetcode.com/problems/robot-return-to-origin/description/) | [Hints](https://leetcode.com/problems/robot-return-to-origin/solutions/5268018/robot-return-to-origin-simplified-java/)  |  $${\color{green} Base}$$ |
 
 ----
 
@@ -47,7 +47,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 
 | $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Description}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Base\space / \space Premium}$$ |
 |-|-|-|-|-|-|
-| $${17.}$$ | ***Letter Combinations of a Phone Number*** | $${\color{yellow} Medium}$$ | [Problem17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?source=submission-ac) | | $${\color{green} Base}$$ |
+| $${17.}$$ | ***Letter Combinations of a Phone Number*** | $${\color{yellow} Medium}$$ | [Problem17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?source=submission-ac) | [Hints](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solutions/5268034/letter-combinations-of-a-phone-number-simplified-java/) | $${\color{green} Base}$$ |
 | $${22.}$$ | ***Generate Parenthesis*** | $${\color{yellow} Medium}$$ | [Problem22](https://leetcode.com/problems/generate-parentheses/description/) | [Hints](https://leetcode.com/problems/generate-parentheses/solutions/5239947/generate-parenthesis-simplified-java/) | $${\color{green} Base}$$ |
 | $${128.}$$ | ***Longest Consecutive Sequence*** | $${\color{yellow} Medium}$$ | [Problem128](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Hints](https://leetcode.com/problems/longest-consecutive-sequence/solutions/5262152/longest-consecutive-sequence-simplified-java/) | $${\color{green} Base}$$ |
 | $${146.}$$ | ***LRU Cache*** | $${\color{yellow} Medium}$$ | [Problem146](https://leetcode.com/problems/lru-cache/description/) | [Hints](https://leetcode.com/problems/lru-cache/solutions/5265055/lru-cache-simplified-java/) | $${\color{green} Base}$$ |
@@ -67,7 +67,6 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${289.}$$ | ***Game of Life*** | $${\color{yellow} Medium}$$ | [Problem289](https://leetcode.com/problems/game-of-life/description/) | [Hints](https://leetcode.com/problems/game-of-life/solutions/5266849/game-of-life-simplified-java/) | $${\color{green} Base}$$ |
 | $${294.}$$ | ***Flip Game II*** | $${\color{yellow} Medium}$$ | [Problem294](https://leetcode.com/problems/flip-game-ii/description/) | [Hints](https://leetcode.com/problems/flip-game-ii/description/) | $${\color{orange} Premium}$$ |
 | $${298.}$$ | ***Binary Tree Longest Consecutive Sequence*** | $${\color{yellow} Medium}$$ | [Problem298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | [Hints](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | $${\color{orange} Premium}$$ |
-| $${310.}$$ | ***Minimum Height Trees*** | $${\color{yellow} Medium}$$ | [Problem310](https://leetcode.com/problems/minimum-height-trees/description/) | | $${\color{green} Base}$$ |
 
 
 
