@@ -53,7 +53,6 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${146.}$$ | ***LRU Cache*** | $${\color{yellow} Medium}$$ | [Problem146](https://leetcode.com/problems/lru-cache/description/) | [Hints](https://leetcode.com/problems/lru-cache/solutions/5265055/lru-cache-simplified-java/) | $${\color{green} Base}$$ |
 | $${155.}$$ | ***Min Stack*** | $${\color{yellow} Medium}$$ | [Problem155](https://leetcode.com/problems/min-stack/description/) | [Hints](https://leetcode.com/problems/min-stack/solutions/5265104/min-stack-simplified-java/) | $${\color{green} Base}$$ |
 | $${159.}$$ | ***Longest Substring with Atmost Two Distinct Characters*** | $${\color{yellow} Medium}$$ | [Problem159](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | [Hints](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) | $${\color{orange} Premium}$$ |
-| $${162.}$$ | ***Find Peak Element*** | $${\color{yellow} Medium}$$ | [Problem162](https://leetcode.com/problems/find-peak-element/description/) | | $${\color{green} Base}$$ |
 | $${200.}$$ | ***Number Of Islands*** | $${\color{yellow} Medium}$$ | [Problem200](https://leetcode.com/problems/number-of-islands/description/) | | $${\color{green} Base}$$ |
 | $${208.}$$ | ***Implement Trie*** | $${\color{yellow} Medium}$$ | [Problem208](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Hints](https://leetcode.com/problems/implement-trie-prefix-tree/solutions/5264998/implement-trie-simplified-java/) | $${\color{green} Base}$$ | 
 | $${230.}$$ | ***Kth Smallest Element in a Binary Search Tree*** | $${\color{yellow} Medium}$$ | [Problem230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Hints](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solutions/5265216/kth-smallest-element-in-a-binary-search-tree-simplified-java/) | $${\color{green} Base}$$ |
@@ -67,9 +66,10 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${289.}$$ | ***Game of Life*** | $${\color{yellow} Medium}$$ | [Problem289](https://leetcode.com/problems/game-of-life/description/) | [Hints](https://leetcode.com/problems/game-of-life/solutions/5266849/game-of-life-simplified-java/) | $${\color{green} Base}$$ |
 | $${294.}$$ | ***Flip Game II*** | $${\color{yellow} Medium}$$ | [Problem294](https://leetcode.com/problems/flip-game-ii/description/) | [Hints](https://leetcode.com/problems/flip-game-ii/description/) | $${\color{orange} Premium}$$ |
 | $${298.}$$ | ***Binary Tree Longest Consecutive Sequence*** | $${\color{yellow} Medium}$$ | [Problem298](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | [Hints](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | $${\color{orange} Premium}$$ |
-
-
-
+| $${314.}$$ | ***Binary Tree Vertical Order Traversal*** | $${\color{yellow} Medium}$$ | [Problem314](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/) | [Hints](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | $${\color{orange} Premium}$$ |
+| $${324.}$$ | ***Wiggle Sort II*** | $${\color{yellow} Medium}$$ | [Problem324](https://leetcode.com/problems/wiggle-sort-ii/description/) | [Hints](https://leetcode.com/problems/wiggle-sort-ii/solutions/5268758/wiggle-sort-ii-simplified-java/) | $${\color{green} Base}$$ |
+| $${341.}$$ | ***Flatten Nested List Iterator*** | $${\color{yellow} Medium}$$ | [Problem341](https://leetcode.com/problems/flatten-nested-list-iterator/description/) | [Hints](https://leetcode.com/problems/flatten-nested-list-iterator/solutions/5269151/flatten-nested-list-iterator-simplified-java/) | $${\color{green} Base}$$ |
+| $${368.}$$ | ***Bomb Enemy*** | $${\color{yellow} Medium}$$ | [Problem368](https://leetcode.com/problems/bomb-enemy/description) | [Hints](https://leetcode.com/problems/bomb-enemy/) | $${\color{orange} Premium}$$ | 
 
 
 
