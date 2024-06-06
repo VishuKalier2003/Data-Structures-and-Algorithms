@@ -70,7 +70,8 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${324.}$$ | ***Wiggle Sort II*** | $${\color{yellow} Medium}$$ | [Problem324](https://leetcode.com/problems/wiggle-sort-ii/description/) | [Hints](https://leetcode.com/problems/wiggle-sort-ii/solutions/5268758/wiggle-sort-ii-simplified-java/) | $${\color{green} Base}$$ |
 | $${341.}$$ | ***Flatten Nested List Iterator*** | $${\color{yellow} Medium}$$ | [Problem341](https://leetcode.com/problems/flatten-nested-list-iterator/description/) | [Hints](https://leetcode.com/problems/flatten-nested-list-iterator/solutions/5269151/flatten-nested-list-iterator-simplified-java/) | $${\color{green} Base}$$ |
 | $${368.}$$ | ***Bomb Enemy*** | $${\color{yellow} Medium}$$ | [Problem368](https://leetcode.com/problems/bomb-enemy/description) | [Hints](https://leetcode.com/problems/bomb-enemy/) | $${\color{orange} Premium}$$ | 
-
+| $${375.}$$ | ***Guess Number Higher or Lower II*** | $${\color{yellow} Medium}$$ | [Problem375](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) | [Hints](https://leetcode.com/problems/guess-number-higher-or-lower-ii/solutions/5269730/guess-number-higher-or-lower-ii-simplified-java/) | $${\color{green} Base}$$ |
+| $${377.}$$ | ***Combination Sum IV*** | $${\color{yellow} Medium}$$ | [Problem377](https://leetcode.com/problems/combination-sum-iv/description/) | [Hints](https://leetcode.com/problems/combination-sum-iv/solutions/5269824/combination-sum-iv-simplified-java/) |$${\color{green} Base}$$ |
 
 
 
