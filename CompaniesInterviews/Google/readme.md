@@ -72,6 +72,20 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${368.}$$ | ***Bomb Enemy*** | $${\color{yellow} Medium}$$ | [Problem368](https://leetcode.com/problems/bomb-enemy/description) | [Hints](https://leetcode.com/problems/bomb-enemy/) | $${\color{orange} Premium}$$ | 
 | $${375.}$$ | ***Guess Number Higher or Lower II*** | $${\color{yellow} Medium}$$ | [Problem375](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) | [Hints](https://leetcode.com/problems/guess-number-higher-or-lower-ii/solutions/5269730/guess-number-higher-or-lower-ii-simplified-java/) | $${\color{green} Base}$$ |
 | $${377.}$$ | ***Combination Sum IV*** | $${\color{yellow} Medium}$$ | [Problem377](https://leetcode.com/problems/combination-sum-iv/description/) | [Hints](https://leetcode.com/problems/combination-sum-iv/solutions/5269824/combination-sum-iv-simplified-java/) |$${\color{green} Base}$$ |
+| $${397.}$$ | ***Integer Replacement*** | $${\color{yellow} Medium}$$ | [Problem397](https://leetcode.com/problems/integer-replacement/) | [Hints](https://leetcode.com/problems/integer-replacement/solutions/5290205/integer-replacement-simplified-java/) | $${\color{green} Base}$$ |
+| $${417.}$$ | ***Pacific Atlantic Water Flow*** | $${\color{yellow} Medium}$$ | [Problem417](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [Hints](https://leetcode.com/problems/pacific-atlantic-water-flow/solutions/5290245/pacific-atlantic-water-flow-simplified-java/) | $${\color{green} Base}$$ |
+| $${421.}$$ | ***Maximum XOR of Two Numbers*** | $${\color{yellow} Medium}$$ | [Problem421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/) | [Hints](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/solutions/5290279/maximum-xor-of-two-numbers-simplified-java/) | $${\color{green} Base}$$ |
+| $${447.}$$ | ***Number of Boomerangs*** | $${\color{yellow} Medium}$$ | [Problem447](https://leetcode.com/problems/number-of-boomerangs/description/) | [Hints](https://leetcode.com/problems/number-of-boomerangs/solutions/5290312/number-of-boomerangs-simplified-java/) | $${\color{green} Base}$$ |
+
+
+
+
+
+
+
+
+
+
 
 
 
