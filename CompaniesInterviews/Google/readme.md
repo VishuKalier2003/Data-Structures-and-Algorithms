@@ -77,10 +77,10 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${421.}$$ | ***Maximum XOR of Two Numbers*** | $${\color{yellow} Medium}$$ | [Problem421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/) | [Hints](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/solutions/5290279/maximum-xor-of-two-numbers-simplified-java/) | $${\color{green} Base}$$ |
 | $${447.}$$ | ***Number of Boomerangs*** | $${\color{yellow} Medium}$$ | [Problem447](https://leetcode.com/problems/number-of-boomerangs/description/) | [Hints](https://leetcode.com/problems/number-of-boomerangs/solutions/5290312/number-of-boomerangs-simplified-java/) | $${\color{green} Base}$$ |
 | $${475.}$$ | ***Heaters*** | $${\color{yellow} Medium}$$ | [Problem475](https://leetcode.com/problems/heaters/description/) | [Hints](https://leetcode.com/problems/heaters/solutions/5290471/heaters-simplified-java/) | $${\color{green} Base}$$ |
-
-
-
-
+| $${486.}$$ | ***Predict the Winner*** | $${\color{yellow} Medium}$$ | [Problem486](https://leetcode.com/problems/predict-the-winner/description/) | [Hints](https://leetcode.com/problems/predict-the-winner/solutions/5244449/predict-the-winner-simplified-java/) | $${\color{green} Base}$$ |
+| $${487.}$$ | ***Max Consecutive Ones II*** | $${\color{yellow} Medium}$$ | [Problem487](https://leetcode.com/problems/max-consecutive-ones-ii/description/) | [Hints](https://leetcode.com/problems/max-consecutive-ones-ii/description/) | $${\color{orange} Premium}$$ |
+| $${490.}$$ | ***The Maze*** | $${\color{yellow} Medium}$$ | [Problem490](https://leetcode.com/problems/the-maze/) | [Hints](https://leetcode.com/problems/the-maze/) | $${\color{orange} Premium}$$ |
+| $${503.}$$ | ***Next Greater Element II*** | $${\color{yellow} Medium}$$ | [Problem503](https://leetcode.com/problems/next-greater-element-ii/description/) | [Hints](https://leetcode.com/problems/next-greater-element-ii/solutions/5290648/next-greater-element-ii-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
