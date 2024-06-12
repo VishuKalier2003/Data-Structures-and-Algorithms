@@ -88,6 +88,16 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${581.}$$ | ***Shortest Unsorted Continuous Subarray*** | $${\color{yellow} Medium}$$ | [Problem581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Hints](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/5299826/shortest-unsorted-continuous-subarray-simplified-java/) | $${\color{green} Base}$$ |
 | $${636.}$$ | ***Exclusive Time Of Functions*** | $${\color{yellow} Medium}$$ | [Problem636](https://leetcode.com/problems/exclusive-time-of-functions/description/) | [Hints](https://leetcode.com/problems/exclusive-time-of-functions/solutions/5300679/exclusive-time-of-functions-simplified-java/) | $${\color{green} Base}$$ |
 | $${658.}$$ | ***Find K Closest Elements*** | $${\color{yellow} Medium}$$ | [Problem658](https://leetcode.com/problems/find-k-closest-elements/description/) | [Hints](https://leetcode.com/problems/find-k-closest-elements/solutions/5301623/find-k-closest-elements-simplified-java/) | $${\color{green} Base}$$ |
+| $${676.}$$ | ***Implement Magic Dictionary*** | $${\color{yellow} Medium}$$ | [Problem676](https://leetcode.com/problems/implement-magic-dictionary/description/) | [Hints](https://leetcode.com/problems/implement-magic-dictionary/solutions/5302249/implement-magic-dictionary-simplified-java/) | $${\color{green} Base}$$ |
+
+
+
+
+
+
+
+
+
 
 
 
