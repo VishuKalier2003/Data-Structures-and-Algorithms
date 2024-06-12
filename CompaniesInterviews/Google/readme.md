@@ -87,7 +87,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${533.}$$ | ***Lonely Pixel II*** | $${\color{yellow} Medium}$$ | [Problem533](https://leetcode.com/problems/lonely-pixel-ii/description/) | [Hints](https://leetcode.com/problems/lonely-pixel-ii/description/) | $${\color{orange} Premium}$$ |
 | $${581.}$$ | ***Shortest Unsorted Continuous Subarray*** | $${\color{yellow} Medium}$$ | [Problem581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Hints](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/5299826/shortest-unsorted-continuous-subarray-simplified-java/) | $${\color{green} Base}$$ |
 | $${636.}$$ | ***Exclusive Time Of Functions*** | $${\color{yellow} Medium}$$ | [Problem636](https://leetcode.com/problems/exclusive-time-of-functions/description/) | [Hints](https://leetcode.com/problems/exclusive-time-of-functions/solutions/5300679/exclusive-time-of-functions-simplified-java/) | $${\color{green} Base}$$ |
-
+| $${658.}$$ | ***Find K Closest Elements*** | $${\color{yellow} Medium}$$ | [Problem658](https://leetcode.com/problems/find-k-closest-elements/description/) | [Hints](https://leetcode.com/problems/find-k-closest-elements/solutions/5301623/find-k-closest-elements-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
