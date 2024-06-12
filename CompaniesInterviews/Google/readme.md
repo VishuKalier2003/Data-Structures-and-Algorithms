@@ -82,7 +82,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${490.}$$ | ***The Maze*** | $${\color{yellow} Medium}$$ | [Problem490](https://leetcode.com/problems/the-maze/) | [Hints](https://leetcode.com/problems/the-maze/) | $${\color{orange} Premium}$$ |
 | $${503.}$$ | ***Next Greater Element II*** | $${\color{yellow} Medium}$$ | [Problem503](https://leetcode.com/problems/next-greater-element-ii/description/) | [Hints](https://leetcode.com/problems/next-greater-element-ii/solutions/5290648/next-greater-element-ii-simplified-java/) | $${\color{green} Base}$$ |
 | $${505.}$$ | ***The Maze II*** | $${\color{yellow} Medium}$$ | [Problem505](https://leetcode.com/problems/the-maze-ii/description/) | [Hints](https://leetcode.com/problems/the-maze-ii/description/) | $${\color{green} Base}$$ | 
-
+| $${522.}$$ | ***Longest Uncommon Subsequence II*** | $${\color{yellow} Medium}$$ | [Problem522](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/) | [Hints](https://leetcode.com/problems/longest-uncommon-subsequence-ii/solutions/5299043/longest-uncommon-subsequence-ii-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
