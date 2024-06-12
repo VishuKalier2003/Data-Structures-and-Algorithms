@@ -89,7 +89,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${636.}$$ | ***Exclusive Time Of Functions*** | $${\color{yellow} Medium}$$ | [Problem636](https://leetcode.com/problems/exclusive-time-of-functions/description/) | [Hints](https://leetcode.com/problems/exclusive-time-of-functions/solutions/5300679/exclusive-time-of-functions-simplified-java/) | $${\color{green} Base}$$ |
 | $${658.}$$ | ***Find K Closest Elements*** | $${\color{yellow} Medium}$$ | [Problem658](https://leetcode.com/problems/find-k-closest-elements/description/) | [Hints](https://leetcode.com/problems/find-k-closest-elements/solutions/5301623/find-k-closest-elements-simplified-java/) | $${\color{green} Base}$$ |
 | $${676.}$$ | ***Implement Magic Dictionary*** | $${\color{yellow} Medium}$$ | [Problem676](https://leetcode.com/problems/implement-magic-dictionary/description/) | [Hints](https://leetcode.com/problems/implement-magic-dictionary/solutions/5302249/implement-magic-dictionary-simplified-java/) | $${\color{green} Base}$$ |
-
+| $${681.}$$ | ***Next Closest Time*** | $${\color{yellow} Medium}$$ | [Problem681](https://leetcode.com/problems/next-closest-time/description/) | [Hints](https://leetcode.com/problems/next-closest-time/description/) | $${\color{orange} Premium}$$ |
 
 
 
