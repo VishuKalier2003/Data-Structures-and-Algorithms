@@ -83,8 +83,9 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${503.}$$ | ***Next Greater Element II*** | $${\color{yellow} Medium}$$ | [Problem503](https://leetcode.com/problems/next-greater-element-ii/description/) | [Hints](https://leetcode.com/problems/next-greater-element-ii/solutions/5290648/next-greater-element-ii-simplified-java/) | $${\color{green} Base}$$ |
 | $${505.}$$ | ***The Maze II*** | $${\color{yellow} Medium}$$ | [Problem505](https://leetcode.com/problems/the-maze-ii/description/) | [Hints](https://leetcode.com/problems/the-maze-ii/description/) | $${\color{green} Base}$$ | 
 | $${522.}$$ | ***Longest Uncommon Subsequence II*** | $${\color{yellow} Medium}$$ | [Problem522](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/) | [Hints](https://leetcode.com/problems/longest-uncommon-subsequence-ii/solutions/5299043/longest-uncommon-subsequence-ii-simplified-java/) | $${\color{green} Base}$$ |
-
-
+| $${531.}$$ | ***Lonely Pixel I*** | $${\color{yellow} Medium}$$ | [Problem531](https://leetcode.com/problems/lonely-pixel-i/description/) | [Hints](https://leetcode.com/problems/lonely-pixel-i/description/) | $${\color{orange} Premium}$$ |
+| $${533.}$$ | ***Lonely Pixel II*** | $${\color{yellow} Medium}$$ | [Problem533](https://leetcode.com/problems/lonely-pixel-ii/description/) | [Hints](https://leetcode.com/problems/lonely-pixel-ii/description/) | $${\color{orange} Premium}$$ |
+| $${581.}$$ | ***Shortest Unsorted Continuous Subarray*** | $${\color{yellow} Medium}$$ | [Problem581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) | [Hints](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solutions/5299826/shortest-unsorted-continuous-subarray-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
