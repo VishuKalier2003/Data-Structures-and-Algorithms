@@ -96,6 +96,15 @@ This file contains all the questions asked by Google. The data has been taken fr
 
 
 
+----
+
+
+## ${\color{lightblue} Hard \space Questions}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Description}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Base\space / \space Premium}$$ |
+|-|-|-|-|-|-|
+| $${4.}$$ | ***Median of Two Sorted Arrays*** | $${\color{red} Hard}$$ | [Problem4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Hints](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/5306079/median-of-two-sorted-arrays-simplified-java/) | $${\color{green} Base}$$ |
+
 
 
 
