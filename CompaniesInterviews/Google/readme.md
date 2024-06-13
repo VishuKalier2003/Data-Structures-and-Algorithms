@@ -90,8 +90,8 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${658.}$$ | ***Find K Closest Elements*** | $${\color{yellow} Medium}$$ | [Problem658](https://leetcode.com/problems/find-k-closest-elements/description/) | [Hints](https://leetcode.com/problems/find-k-closest-elements/solutions/5301623/find-k-closest-elements-simplified-java/) | $${\color{green} Base}$$ |
 | $${676.}$$ | ***Implement Magic Dictionary*** | $${\color{yellow} Medium}$$ | [Problem676](https://leetcode.com/problems/implement-magic-dictionary/description/) | [Hints](https://leetcode.com/problems/implement-magic-dictionary/solutions/5302249/implement-magic-dictionary-simplified-java/) | $${\color{green} Base}$$ |
 | $${681.}$$ | ***Next Closest Time*** | $${\color{yellow} Medium}$$ | [Problem681](https://leetcode.com/problems/next-closest-time/description/) | [Hints](https://leetcode.com/problems/next-closest-time/description/) | $${\color{orange} Premium}$$ |
-
-
+| $${687.}$$ | ***Longest Univalue Path*** | $${\color{yellow} Medium}$$ | [Problem687](https://leetcode.com/problems/longest-univalue-path/description/) | [Hints](https://leetcode.com/problems/longest-univalue-path/solutions/5305112/longest-univalue-path-simplified-java/) | $${\color{green} Base}$$ |
+| $${729.}$$ | ***My Calendar I*** | $${\color{yellow} Medium}$$ | [Problem729](https://leetcode.com/problems/my-calendar-i/description/) | [Hints](https://leetcode.com/problems/my-calendar-i/solutions/5305267/my-calendar-i-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
