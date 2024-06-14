@@ -112,4 +112,14 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${297.}$$ | ***Serialize and Deserialize Binary Tree*** | $${\color{red} Hard}$$ | [Problem297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Hints](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solutions/5311306/serialize-and-deserialize-a-binary-tree-simplified-java/) | $${\color{green} Base}$$ |
 | $${302.}$$ | ***Smallest Rectangle Enclosing Black Pixels*** | $${\color{Red} Hard}$$ | [Problem302](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [Hints](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | $${\color{orange} Premium}$$ |
 | $${308.}$$ | ***Range Sum Query - 2D Mutable*** | $${\color{Red} Hard}$$ | [Problem308](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | [Hints](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | $${\color{orange} Premium}$$ |
+| $${312.}$$ | ***Burst Balloons*** | $${\color{red} Hard}$$ | [Problem312](https://leetcode.com/problems/burst-balloons/description/) | [Hints](https://leetcode.com/problems/burst-balloons/solutions/5312441/burst-balloons-simplified-java/) | $${\color{green} Base}$$ |
+
+
+
+
+
+
+
+
+
 
