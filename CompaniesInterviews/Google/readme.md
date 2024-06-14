@@ -110,6 +110,6 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${272.}$$ | ***Closest Binary Tree Search Value II*** | $${\color{red} Hard}$$ | [Problem272](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | [Hints](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | $${\color{orange} Premium}$$ |
 | $${295.}$$ | ***Find Median from Data Stream*** | $${\color{red} Hard}$$ | [Problem295](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Hints](https://leetcode.com/problems/find-median-from-data-stream/solutions/5311001/find-median-from-data-stream-simplified-java/) | $${\color{green} Base}$$ | 
 | $${297.}$$ | ***Serialize and Deserialize Binary Tree*** | $${\color{red} Hard}$$ | [Problem297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Hints](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solutions/5311306/serialize-and-deserialize-a-binary-tree-simplified-java/) | $${\color{green} Base}$$ |
-
-
+| $${302.}$$ | ***Smallest Rectangle Enclosing Black Pixels*** | $${\color{Red} Hard}$$ | [Problem302](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | [Hints](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) | $${\color{orange} Premium}$$ |
+| $${308.}$$ | ***Range Sum Query - 2D Mutable*** | $${\color{Red} Hard}$$ | [Problem308](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | [Hints](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | $${\color{orange} Premium}$$ |
 
