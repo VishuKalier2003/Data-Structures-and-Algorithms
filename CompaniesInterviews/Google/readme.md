@@ -109,7 +109,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${269.}$$ | ***Alien Dictionary*** | $${\color{red} Hard}$$ | [Problem269](https://leetcode.com/problems/alien-dictionary/) | [Hints](https://leetcode.com/problems/alien-dictionary/) | $${\color{orange} Premium}$$ |
 | $${272.}$$ | ***Closest Binary Tree Search Value II*** | $${\color{red} Hard}$$ | [Problem272](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | [Hints](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) | $${\color{orange} Premium}$$ |
 | $${295.}$$ | ***Find Median from Data Stream*** | $${\color{red} Hard}$$ | [Problem295](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Hints](https://leetcode.com/problems/find-median-from-data-stream/solutions/5311001/find-median-from-data-stream-simplified-java/) | $${\color{green} Base}$$ | 
-
+| $${297.}$$ | ***Serialize and Deserialize Binary Tree*** | $${\color{red} Hard}$$ | [Problem297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [Hints](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solutions/5311306/serialize-and-deserialize-a-binary-tree-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
