@@ -120,7 +120,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${425.}$$ | ***Word Squares*** | $${\color{red} Hard}$$ | [Problem425](https://leetcode.com/problems/word-squares/) | [Hints](https://leetcode.com/problems/word-squares/) | $${\color{orange}Premium}$$ |
 | $${460.}$$ | ***LFU Cache*** | $${\color{red} Hard}$$ | [Problem460](https://leetcode.com/problems/lfu-cache/description/) | [Hints](https://leetcode.com/problems/lfu-cache/solutions/5317649/lfu-cache-simplified-java/) | $${\color{green} Base}$$ |
 | $${480.}$$ | ***Sliding Window Median*** | $${\color{red} Hard}$$ | [Problem480](https://leetcode.com/problems/sliding-window-median/description/) | [Hints](https://leetcode.com/problems/sliding-window-median/solutions/5317967/sliding-window-median-simplified-java/) | $${\color{green} Base}$$ |
-
+| $${493.}$$ | ***Reverse Pairs*** | $${\color{red} Hard}$$ | [Problem493](https://leetcode.com/problems/reverse-pairs/description/) | [Hints](https://leetcode.com/problems/reverse-pairs/solutions/5318681/reverse-pairs-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
