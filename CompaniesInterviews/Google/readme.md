@@ -115,8 +115,9 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${312.}$$ | ***Burst Balloons*** | $${\color{red} Hard}$$ | [Problem312](https://leetcode.com/problems/burst-balloons/description/) | [Hints](https://leetcode.com/problems/burst-balloons/solutions/5312441/burst-balloons-simplified-java/) | $${\color{green} Base}$$ |
 | $${329.}$$ | ***Longest Increasing Path in a Matrix*** | $${\color{red} Hard}$$ | [Problem329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Hints](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solutions/5312946/longest-increasing-path-in-a-matrix-simplified-java/) | $${\color{green} Base}$$ |
 | $${363.}$$ | ***Max Sum of Rectangle No Larger Than k*** | $${\color{Red} Hard}$$ | [Problem363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) | [Hints](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/solutions/5316282/max-sum-of-rectangle-no-larger-than-k-simplified-java/) | $${\color{Green} Base}$$ |
-
-
+| $${407.}$$ | ***Trapping Rain Water II*** | $${\color{red} Hard}$$ | [Problem407](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Hints](https://leetcode.com/problems/trapping-rain-water-ii/solutions/5317539/trapping-rain-water-ii-simplified-java/) | $${\color{green} Base}$$ |
+| $${411.}$$ | ***Minimum Unique Word Abbreviations*** | $${\color{red} Hard}$$ | [Problem411](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | [Hints](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | $${\color{orange} Premium}$$ |
+| $${425.}$$ | ***Word Squares*** | $${\color{red} Hard}$$ | [Problem425](https://leetcode.com/problems/word-squares/) | [Hints](https://leetcode.com/problems/word-squares/) | $${\color{orange}Premium}$$ |
 
 
 
