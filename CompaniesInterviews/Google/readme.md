@@ -118,7 +118,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${407.}$$ | ***Trapping Rain Water II*** | $${\color{red} Hard}$$ | [Problem407](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Hints](https://leetcode.com/problems/trapping-rain-water-ii/solutions/5317539/trapping-rain-water-ii-simplified-java/) | $${\color{green} Base}$$ |
 | $${411.}$$ | ***Minimum Unique Word Abbreviations*** | $${\color{red} Hard}$$ | [Problem411](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | [Hints](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | $${\color{orange} Premium}$$ |
 | $${425.}$$ | ***Word Squares*** | $${\color{red} Hard}$$ | [Problem425](https://leetcode.com/problems/word-squares/) | [Hints](https://leetcode.com/problems/word-squares/) | $${\color{orange}Premium}$$ |
-
+| $${460.}$$ | ***LFU Cache*** | $${\color{red} Hard}$$ | [Problem460](https://leetcode.com/problems/lfu-cache/description/) | [Hints](https://leetcode.com/problems/lfu-cache/solutions/5317649/lfu-cache-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
