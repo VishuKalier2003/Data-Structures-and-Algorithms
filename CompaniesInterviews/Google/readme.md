@@ -114,7 +114,7 @@ This file contains all the questions asked by Google. The data has been taken fr
 | $${308.}$$ | ***Range Sum Query - 2D Mutable*** | $${\color{Red} Hard}$$ | [Problem308](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | [Hints](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | $${\color{orange} Premium}$$ |
 | $${312.}$$ | ***Burst Balloons*** | $${\color{red} Hard}$$ | [Problem312](https://leetcode.com/problems/burst-balloons/description/) | [Hints](https://leetcode.com/problems/burst-balloons/solutions/5312441/burst-balloons-simplified-java/) | $${\color{green} Base}$$ |
 | $${329.}$$ | ***Longest Increasing Path in a Matrix*** | $${\color{red} Hard}$$ | [Problem329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Hints](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/solutions/5312946/longest-increasing-path-in-a-matrix-simplified-java/) | $$${\color{green} Base}$$ |
-
+| $${363.}$$ | ***Max Sum of Rectangle No Larger Than k*** | $${\color{Red} Hard}$$ | [Problem363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) | [Hints](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/solutions/5316282/max-sum-of-rectangle-no-larger-than-k-simplified-java/) | $${\color{Green} Base}$$ |
 
 
 
