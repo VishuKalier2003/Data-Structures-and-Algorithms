@@ -39,7 +39,7 @@ The table provides the Questions in well-sorted fashion for Hackerrank Platform.
 | $${\color{red} S. \space No.}$$ | $${\color{red} Company}$$ | $${\color{red} Question\space Page}$$ |
 |-|-|-|
 | $${1.}$$ | $${\color{lightgreen} Google}$$ | [QuestionsPage](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/CompaniesInterviews/Google/readme.md) |
-| $${2.}$$ | ##{\color{lightgreen} Microsoft}$$ | [QuestionsPage](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/CompaniesInterviews/Microsoft/readme.md) |
+| $${2.}$$ | $${\color{lightgreen} Microsoft}$$ | [QuestionsPage](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/CompaniesInterviews/Microsoft/readme.md) |
 
 
 ----
