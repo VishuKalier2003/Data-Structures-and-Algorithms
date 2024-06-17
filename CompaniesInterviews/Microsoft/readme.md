@@ -18,3 +18,16 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${88.}$$ | ***Merge Sorted Array*** | $${\color{lightgreen} Easy}$$ | [Problem88](https://leetcode.com/problems/merge-sorted-array/description/) | [Hints](https://leetcode.com/problems/merge-sorted-array/solutions/5322193/merge-sorted-array-simplified-java/) | $${\color{green} Base}$$ |
 | $${101.}$$ | ***Symmetric Tree*** | $${\color{lightgreen} Easy}$$ | [Problem101](https://leetcode.com/problems/symmetric-tree/description/) | [Hints](https://leetcode.com/problems/symmetric-tree/solutions/5322234/symmetric-tree-simplified-java/) | $${\color{green} Base}$$ |
 | $${112.}$$ | ***Path Sum*** | $${\color{lightgreen} Easy}$$ | [Problem112](https://leetcode.com/problems/path-sum/description/) | [Hints](https://leetcode.com/problems/path-sum/solutions/5322283/path-sum-simplified-java/) | $${\color{green} Base}$$ |
+| $${121.}$$ | ***Best Time to Buy and Sell Stock*** | $${\color{lightgreen} Easy}$$ | [Problem121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Hints](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5324667/best-time-to-buy-and-sell-stock-simplified-java/) | $${\color{green} Base}$$ |
+| $${141.}$$ | ***Linked List Cycle*** | $${\color{lightgreen} Easy}$$ | [Problem141](https://leetcode.com/problems/linked-list-cycle/description/) | [Hints](https://leetcode.com/problems/linked-list-cycle/description/) | $${\color{green} Base}$$ |
+
+
+
+
+
+
+
+
+
+
+
