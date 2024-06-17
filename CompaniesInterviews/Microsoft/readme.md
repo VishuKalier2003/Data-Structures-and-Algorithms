@@ -24,7 +24,13 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${206.}$$ | ***Reverse Linked LIst*** | $${\color{lightgreen} Easy}$$ | [Problem206](https://leetcode.com/problems/reverse-linked-list/description/) | [Hints](https://leetcode.com/problems/reverse-linked-list/solutions/5325447/reverse-linked-list-simplified-java/) | $${\color{green} Base}$$ |
 | $${270}$$ | ***Closest Binary Search Tree Value*** | $${\color{lightgreen} Easy}$$ | [Problem270](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Hints](https://leetcode.com/problems/closest-binary-search-tree-value/) | $${\color{orange} Premium}$$ |
 
+----
 
+## ${\color{lightblue} Medium \space Questions}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Description}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Base\space / \space Premium}$$ |
+|-|-|-|-|-|-|
+| $${5.}$$ | ***Longest Palindromic Substring*** | $${\color{yellow} Medium}$$ | [Problem5](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Hints](https://leetcode.com/problems/longest-palindromic-substring/solutions/5327759/longest-palindromic-substring-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
