@@ -20,7 +20,9 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${112.}$$ | ***Path Sum*** | $${\color{lightgreen} Easy}$$ | [Problem112](https://leetcode.com/problems/path-sum/description/) | [Hints](https://leetcode.com/problems/path-sum/solutions/5322283/path-sum-simplified-java/) | $${\color{green} Base}$$ |
 | $${121.}$$ | ***Best Time to Buy and Sell Stock*** | $${\color{lightgreen} Easy}$$ | [Problem121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Hints](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5324667/best-time-to-buy-and-sell-stock-simplified-java/) | $${\color{green} Base}$$ |
 | $${141.}$$ | ***Linked List Cycle*** | $${\color{lightgreen} Easy}$$ | [Problem141](https://leetcode.com/problems/linked-list-cycle/description/) | [Hints](https://leetcode.com/problems/linked-list-cycle/description/) | $${\color{green} Base}$$ |
-
+| $${160.}$$ | ***Intersection of Two Linked Lists*** | $${\color{lightgreen} Easy}$$ | [Problem160](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Hints](https://leetcode.com/problems/intersection-of-two-linked-lists/solutions/5325236/intersection-of-two-linked-lists-simplified-java/) | $${\color{green} Base}$$ |
+| $${206.}$$ | ***Reverse Linked LIst*** | $${\color{lightgreen} Easy}$$ | [Problem206](https://leetcode.com/problems/reverse-linked-list/description/) | [Hints](https://leetcode.com/problems/reverse-linked-list/solutions/5325447/reverse-linked-list-simplified-java/) | $${\color{green} Base}$$ |
+| $${270}$$ | ***Closest Binary Search Tree Value*** | $${\color{lightgreen} Easy}$$ | [Problem270](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Hints](https://leetcode.com/problems/closest-binary-search-tree-value/) | $${\color{orange} Premium}$$ |
 
 
 
