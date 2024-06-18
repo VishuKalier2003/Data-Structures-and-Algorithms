@@ -36,6 +36,31 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${47.}$$ | ***Permutations II*** | $${\color{yellow} Medium}$$ | [Problem47](https://leetcode.com/problems/permutations-ii/description/) | [Hints](https://leetcode.com/problems/permutations-ii/solutions/5331235/permutations-ii-simplified-java/) | $${\color{green} Base}$$ |
 | $${53.}$$ | ***Maximum Subarray*** | $${\color{yellow} Medium}$$ | [Problem53](https://leetcode.com/problems/maximum-subarray/description/) | [Hints](https://leetcode.com/problems/maximum-subarray/solutions/5331314/maximum-subarray-simplified-java/) | $${\color{green} Base}$$ |
 | $${55.}$$ | ***Jump Game*** | $${\color{yellow} Medium}$$ | [Problem55](https://leetcode.com/problems/jump-game/description/) | [Hints](https://leetcode.com/problems/jump-game/solutions/5331605/jump-game-simplified-java/) | $${\color{green} Base}$$ |
+| $${56.}$$ | ***Merge Intervals*** | $${\color{yellow} Medium}$$ | [Problem56](https://leetcode.com/problems/merge-intervals/description/) | [Hints](https://leetcode.com/problems/merge-intervals/solutions/5331637/merge-intervals-simplified-java/) | $${\color{green} Base}$$ |
+| $${71.}$$ | ***Simplify Path*** | $${\color{yellow} Medium}$$ | [Problem71](https://leetcode.com/problems/simplify-path/description/) | [Hints](https://leetcode.com/problems/simplify-path/solutions/5331724/simplify-path-simplified-java/) | $${\color{green} Base}$$ |
+| $${73.}$$ | ***Set Matrix Zeros*** | $${\color{yellow} Medium}$$ | [Problem73](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Hints](https://leetcode.com/problems/set-matrix-zeroes/solutions/5331789/set-matrix-zeros-simplified-java/) | $${\color{green} Base}$$ |
+| $${75.}$$ | ***Sort Colors*** | $${\color{yellow} Medium}$$ | [Problem75](https://leetcode.com/problems/sort-colors/description/) | [Hints](https://leetcode.com/problems/sort-colors/solutions/5298817/sort-colors-simplified-java/) | $${\color{green} Base}$$ |
+| $${79.}$$ | ***Word Search*** | $${\color{yellow} Medium}$$ | [Problem79](https://leetcode.com/problems/word-search/description/) | [Hints](https://leetcode.com/problems/word-search/solutions/5331935/word-search-simplified-java/) | $${\color{green} Base}$$ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
