@@ -34,7 +34,7 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${33.}$$ | ***Search in Rotated Sorted Array*** | $${\color{yellow} Medium}$$ | [Problem33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Hints](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5331041/search-in-rotated-sorted-array-simplified-java/) | $${\color{green} Base}$$ |
 | $${46.}$$ | ***Permutations*** | $${\color{yellow} Medium}$$ | [Problem46](https://leetcode.com/problems/permutations/description/) | [Hints](https://leetcode.com/problems/permutations/solutions/5331168/permutations-simplified-java/) | $${\color{green} Base}$$ |
 | $${47.}$$ | ***Permutations II*** | $${\color{yellow} Medium}$$ | [Problem47](https://leetcode.com/problems/permutations-ii/description/) | [Hints](https://leetcode.com/problems/permutations-ii/solutions/5331235/permutations-ii-simplified-java/) | $${\color{green} Base}$$ |
-
+| $${53.}$$ | ***Maximum Subarray*** | $${\color{yellow} Medium}$$ | [Problem53](https://leetcode.com/problems/maximum-subarray/description/) | [Hints](https://leetcode.com/problems/maximum-subarray/solutions/5331314/maximum-subarray-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
