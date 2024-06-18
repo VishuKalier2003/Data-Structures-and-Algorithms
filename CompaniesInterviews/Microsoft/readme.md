@@ -41,7 +41,7 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${73.}$$ | ***Set Matrix Zeros*** | $${\color{yellow} Medium}$$ | [Problem73](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Hints](https://leetcode.com/problems/set-matrix-zeroes/solutions/5331789/set-matrix-zeros-simplified-java/) | $${\color{green} Base}$$ |
 | $${75.}$$ | ***Sort Colors*** | $${\color{yellow} Medium}$$ | [Problem75](https://leetcode.com/problems/sort-colors/description/) | [Hints](https://leetcode.com/problems/sort-colors/solutions/5298817/sort-colors-simplified-java/) | $${\color{green} Base}$$ |
 | $${79.}$$ | ***Word Search*** | $${\color{yellow} Medium}$$ | [Problem79](https://leetcode.com/problems/word-search/description/) | [Hints](https://leetcode.com/problems/word-search/solutions/5331935/word-search-simplified-java/) | $${\color{green} Base}$$ |
-
+| $${91.}$$ | ***Decode Ways*** | $${\color{yellow} Medium}$$ | [Problem91](https://leetcode.com/problems/decode-ways/description/) | [Hints](https://leetcode.com/problems/decode-ways/solutions/5332174/decode-ways-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
