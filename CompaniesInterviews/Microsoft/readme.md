@@ -33,7 +33,7 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${5.}$$ | ***Longest Palindromic Substring*** | $${\color{yellow} Medium}$$ | [Problem5](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Hints](https://leetcode.com/problems/longest-palindromic-substring/solutions/5327759/longest-palindromic-substring-simplified-java/) | $${\color{green} Base}$$ |
 | $${33.}$$ | ***Search in Rotated Sorted Array*** | $${\color{yellow} Medium}$$ | [Problem33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Hints](https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5331041/search-in-rotated-sorted-array-simplified-java/) | $${\color{green} Base}$$ |
 | $${46.}$$ | ***Permutations*** | $${\color{yellow} Medium}$$ | [Problem46](https://leetcode.com/problems/permutations/description/) | [Hints](https://leetcode.com/problems/permutations/solutions/5331168/permutations-simplified-java/) | $${\color{green} Base}$$ |
-
+| $${47.}$$ | ***Permutations II*** | $${\color{yellow} Medium}$$ | [Problem47](https://leetcode.com/problems/permutations-ii/description/) | [Hints](https://leetcode.com/problems/permutations-ii/solutions/5331235/permutations-ii-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
