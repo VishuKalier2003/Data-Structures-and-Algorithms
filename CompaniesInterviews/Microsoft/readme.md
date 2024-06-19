@@ -51,7 +51,8 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${204.}$$ | ***Count Primes*** | $${\color{yellow} Medium}$$ | [Problem204](https://leetcode.com/problems/count-primes/description/) | [Hints](https://leetcode.com/problems/count-primes/solutions/5335771/count-primes-simplified-java/) | $${\color{green} Base}$$ |
 | $${208.}$$ | ***Implement Trie*** | $${\color{yellow} Medium}$$ | [Problem208](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [Hints](https://leetcode.com/problems/implement-trie-prefix-tree/solutions/5264998/implement-trie-simplified-java/) | $${\color{green} Base}$$ |
 | $${213.}$$ | ***House Robber II*** | $${\color{yellow} Medium}$$ | [Problem213](https://leetcode.com/problems/house-robber-ii/description/) | [Hints](https://leetcode.com/problems/house-robber-ii/solutions/5335733/house-robber-ii-simplified-java/) | $${\color{green} Base}$$ |
-
+| $${235.}$$ | ***Lowest Common Ancestor of Binary Search Tree*** | $${\color{yellow} Medium}$$ | [Problem235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Hints](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solutions/5335853/lowest-common-ancestor-of-a-binary-search-tree-simplified-java/) | $${\color{green} Base}$$ |
+| $${236.}$$ | ***Lowest Common Ancestor of Binary Tree*** | $${\color{yellow} Medium}$$ |
 
 
 
