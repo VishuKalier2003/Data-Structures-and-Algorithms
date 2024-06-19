@@ -55,7 +55,7 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${236.}$$ | ***Lowest Common Ancestor of Binary Tree*** | $${\color{yellow} Medium}$$ | [Problem236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Hints](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/5336108/lowest-common-ancestor-of-binary-tree-simplified-java/) | $${\color{green} Base}$$ |
 | $${238.}$$ | ***Product of Array Except Self*** | $${\color{yellow} Medium}$$ | [Problem238](https://leetcode.com/problems/product-of-array-except-self/description/) | [Hints](https://leetcode.com/problems/product-of-array-except-self/solutions/5336193/product-of-array-except-self-simplified-java/) | $${\color{green} Base}$$ |
 | $${285.}$$ | ***Inorder Successor in BST*** | $${\color{yellow} Medium}$$ | [Problem285](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [Hints](https://leetcode.com/problems/inorder-successor-in-bst/description/) | $${\color{orange} Premium}$$ |
-
+| $${300.}$$ | ***Longest Increasing Subsequence*** | $${\color{yellow} Medium}$$ | [Problem300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Hints](https://leetcode.com/problems/longest-increasing-subsequence/solutions/5336343/longest-increasing-subsequence-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
