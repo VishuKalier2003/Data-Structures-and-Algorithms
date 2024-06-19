@@ -56,6 +56,8 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${238.}$$ | ***Product of Array Except Self*** | $${\color{yellow} Medium}$$ | [Problem238](https://leetcode.com/problems/product-of-array-except-self/description/) | [Hints](https://leetcode.com/problems/product-of-array-except-self/solutions/5336193/product-of-array-except-self-simplified-java/) | $${\color{green} Base}$$ |
 | $${285.}$$ | ***Inorder Successor in BST*** | $${\color{yellow} Medium}$$ | [Problem285](https://leetcode.com/problems/inorder-successor-in-bst/description/) | [Hints](https://leetcode.com/problems/inorder-successor-in-bst/description/) | $${\color{orange} Premium}$$ |
 | $${300.}$$ | ***Longest Increasing Subsequence*** | $${\color{yellow} Medium}$$ | [Problem300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Hints](https://leetcode.com/problems/longest-increasing-subsequence/solutions/5336343/longest-increasing-subsequence-simplified-java/) | $${\color{green} Base}$$ |
+| $${333.}$$ | ***Largest BST Subtree*** | $${\color{yellow} Medium}$$ | [Problem333](https://leetcode.com/problems/largest-bst-subtree/) | [Hints](https://leetcode.com/problems/largest-bst-subtree/) | $${\color{orange} Premium}$$ |
+| $${348.}$$ | ***Design Tic-Tac-Toe*** | $${\color{yellow} Medium}$$ | [Problem348](https://leetcode.com/problems/design-tic-tac-toe/) | [Hints](https://leetcode.com/problems/design-tic-tac-toe/) | $${\color{orange} Premium}$$ |
 
 
 
