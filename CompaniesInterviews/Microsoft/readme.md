@@ -60,7 +60,7 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${348.}$$ | ***Design Tic-Tac-Toe*** | $${\color{yellow} Medium}$$ | [Problem348](https://leetcode.com/problems/design-tic-tac-toe/) | [Hints](https://leetcode.com/problems/design-tic-tac-toe/) | $${\color{orange} Premium}$$ |
 | $${443.}$$ | ***String Compression*** | $${\color{yellow} Medium}$$ | [Problem443](https://leetcode.com/problems/string-compression/description/) | [Hints](https://leetcode.com/problems/string-compression/solutions/5340530/string-compression-simplified-java/) | $${\color{green} Base}$$ |
 | $${513.}$$ | ***Find Bottom Left Tree Value*** | $${\color{yellow} Medium}$$ | [Problem513](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [Hints](https://leetcode.com/problems/find-bottom-left-tree-value/solutions/5340509/find-bottom-left-tree-value-simplified-java/) | $${\color{green} Base}$$ |
-
+| $${567.}$$ | ***Permutation in String*** | $${\color{yellow} Medium}$$ | [Problem567](https://leetcode.com/problems/permutation-in-string/description/) | [Hints](https://leetcode.com/problems/permutation-in-string/solutions/5340972/permutation-in-string-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
