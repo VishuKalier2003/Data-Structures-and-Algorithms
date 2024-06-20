@@ -58,6 +58,11 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${300.}$$ | ***Longest Increasing Subsequence*** | $${\color{yellow} Medium}$$ | [Problem300](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Hints](https://leetcode.com/problems/longest-increasing-subsequence/solutions/5336343/longest-increasing-subsequence-simplified-java/) | $${\color{green} Base}$$ |
 | $${333.}$$ | ***Largest BST Subtree*** | $${\color{yellow} Medium}$$ | [Problem333](https://leetcode.com/problems/largest-bst-subtree/) | [Hints](https://leetcode.com/problems/largest-bst-subtree/) | $${\color{orange} Premium}$$ |
 | $${348.}$$ | ***Design Tic-Tac-Toe*** | $${\color{yellow} Medium}$$ | [Problem348](https://leetcode.com/problems/design-tic-tac-toe/) | [Hints](https://leetcode.com/problems/design-tic-tac-toe/) | $${\color{orange} Premium}$$ |
+| $${443.}$$ | ***String Compression*** | $${\color{yellow} Medium}$$ | [Problem443](https://leetcode.com/problems/string-compression/description/) | [Hints](https://leetcode.com/problems/string-compression/solutions/5340530/string-compression-simplified-java/) | $${\color{green} Base}$$ |
+| $${513.}$$ | ***Find Bottom Left Tree Value*** | $${\color{yellow} Medium}$$ | [Problem513](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | [Hints](https://leetcode.com/problems/find-bottom-left-tree-value/solutions/5340509/find-bottom-left-tree-value-simplified-java/) | $${\color{green} Base}$$ |
+
+
+
 
 
 
