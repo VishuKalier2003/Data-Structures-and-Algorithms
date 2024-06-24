@@ -64,7 +64,14 @@ This file contains all the questions asked by Microsoft. The data has been taken
 | $${650.}$$ | ***Two Keys Keyboard*** | $${\color{yellow} Medium}$$ | [Problem650](https://leetcode.com/problems/2-keys-keyboard/description/) | [Hints](https://leetcode.com/problems/2-keys-keyboard/solutions/5341453/2-keys-keyboard-simplified-java/) | $${\color{green} Base}$$ |
 | $${651.}$$ | ***Four Keys Keyboard*** | $${\color{yellow} Medium}$$ | [Problem651](https://leetcode.com/problems/4-keys-keyboard/description/) | [Hints](https://leetcode.com/problems/4-keys-keyboard/description/) | $${\color{orange} Premium}$$ |
 
+----
 
+## ${\color{lightblue} Hard \space Questions}$
+
+| $${\color{lightblue} Leetcode}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Difficulty}$$ | $${\color{lightblue} Description}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Base\space / \space Premium}$$ |
+|-|-|-|-|-|-|
+| $${4.}$$ | ***Median of Two Sorted Arrays*** | $${\color{red} Hard}$$ | [Problem4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Hints](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/5306079/median-of-two-sorted-arrays-simplified-java/) | $${\color{green} Base}$$ |
+| $${23.}$$ | ***Merge k Sorted Lists*** | $${\color{red} Hard}$$ | [Problem23](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Hints](https://leetcode.com/problems/merge-k-sorted-lists/solutions/5306953/merge-k-sorted-lists-simplified-java/) | $${\color{green} Base}$$ |
 
 
 
