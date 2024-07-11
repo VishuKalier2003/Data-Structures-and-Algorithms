@@ -196,12 +196,52 @@ for(; num != 0; num = num >> 1, index++)
    if(num & 1)   break;
 ```
 
+---
 
+21.***Check if Two Numbers have opposite sign*** - ${O(1)}$
 
+```java
+boolean opposite = (x ^ y) < 0;
+```
 
+---
 
+22.***Count Trailing Zeros*** - ${O(log n)}$
 
-   
+```java
+int count = 0;   // variable to store count...
+for(; num != 0 && ~(num & 1); num = num >> 1, count++);
+// Counting number of 0s from the right...
+```
+
+---
+
+23.***Rotate Bits to Left*** - ${O(log n)}$
+
+```java
+// Shift x by n bits left, and right shift it...
+x = (x << n) | (x >> (32 - n));
+```
+
+---
+
+24.***Rotate Bits to Right*** - ${O(log n)}$
+
+```java
+// Shift x by n bits right, and left shift it...
+x = (x >> n) | (x << (32 - n));
+```
+
+---
+
+25.***Get LSB n bits*** - ${O(1)}$
+
+```java
+int mask = (1 << n) - 1;   // Left Shift and subtract to set all LSB n bits to 1...
+int result = x & mask;      // Then extract the mask using AND...
+```
+
+---
 
    
 
