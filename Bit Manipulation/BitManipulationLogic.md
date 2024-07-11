@@ -243,6 +243,13 @@ int result = x & mask;      // Then extract the mask using AND...
 
 ---
 
+26.***Get all except LSB n bits*** - ${O(1)}$
+
+```java
+int mask = ~((1 << n) - 1);   // Left Shifting and reversing to reverse the order...
+int result = x & mask;      // Then extract the mask using AND...
+```
+
    
 
 
