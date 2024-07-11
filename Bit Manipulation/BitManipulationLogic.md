@@ -104,6 +104,47 @@ for(; num != 0; num = num >> 1)      // Reducing number by 2, till it becomes 0.
       parity = ~parity;      // Invert the parity, 0 for odd and 1 for even...
 ```
 
+---
+
+12.***Reverse Bits*** - O(n)
+
+```java
+String reverse = "";      // String to store reverse number...
+for(; num != 0; num = num >> 1)      // Extracting the LSB bits iteratively...
+   reverse = reverse + (num & 1);      // Extract the LSB and it to the number...
+```
+
+---
+
+13.***Update the Rightmost 0 bit*** - O(1)
+
+```java
+// x+1 changes the rightmost 0 bit to 1...
+x = x | (x+1);      // Use OR operation to only update the rightmost bit...
+```
+
+---
+
+14.***Invert Bits*** - O(log n)
+
+```java
+x = ~x;   // Invert the bits...
+```
+
+---
+
+15.***Check If Alternating 1s and 0s***
+
+```java
+int parity = 1;      // Setting a parity checker bit...
+for(; num != 0; num = num >> 1) {      // Extracting bits from LSB side...
+   if(!((num & 1) & parity))      // If the operation results to 0, then previous and current bits are alternating...
+      parity = ~parity;         // Update the parity bit...
+   else return false;            // Return false otherwise...
+}
+return true;      // Return true, when entire number is checked...
+```
+
 
 
    
