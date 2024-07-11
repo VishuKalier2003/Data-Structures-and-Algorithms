@@ -4,7 +4,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ### ${\color{lightblue} Techniques}$
 
-1. ***Setting the i-th bit to 1*** - O(1)
+1. ***Setting the i-th bit to 1*** - ${O(1)}$
    
    ```java
    // Left Shift 1 bit i times left and do OR with the bit present their...
@@ -13,7 +13,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ---
 
-2. ***Setting the i-th bit to 0*** - O(1)
+2. ***Setting the i-th bit to 0*** - ${O(1)}$
    
    ```java
    // Left Shift in a number, then negate the entire number...
@@ -22,7 +22,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ---
 
-3. ***Flip the i-th bit*** - O(1)
+3. ***Flip the i-th bit*** - ${O(1)}$
    
    ```java
    // Use XOR to flip only a bit...
@@ -31,7 +31,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ---
 
-4. ***Check if i-th Bit is 1 or i-th bit is set*** - O(1)
+4. ***Check if i-th Bit is 1 or i-th bit is set*** - ${O(1)}$
    
    ```java
    // Bitwise operations can give boolean result, by checking with their garbage values...
@@ -40,7 +40,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ---
 
-5. ***Count number of 1's bit in binary representation*** - O(log n)
+5. ***Count number of 1's bit in binary representation*** - ${O(log n)}$
 
    ```java
    int count = 0;    // Variable to store count...
@@ -50,7 +50,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ---
 
-6. ***Setting right bits 1*** - O(1)
+6. ***Decrease*** - ${O(1)}$
 
    ```java
    // Sets the rightmost 1 bit to 0, and all other right bits to 1...
@@ -59,7 +59,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ---
 
-7.  ***Finding Power of Two*** - O(1)
+7.  ***Finding Power of Two*** - ${O(1)}$
 
    ```java
   // There should be no common bit between current and previous number...
@@ -68,7 +68,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ---
 
-8.***Turn Off Rightmost 1 bit*** - O(1)
+8.***Turn Off Rightmost 1 bit*** - ${O(1)}$
 
 ```java
 // x-1 makes the rightmost bit to 0, and other right bits to 1...
@@ -77,7 +77,7 @@ x = x & (x-1);      // Then use AND operation to terminate the rightmost bit...
 
 ---
 
-9.***Extract Rightmost 1 bit*** - O(1)
+9.***Extract Rightmost 1 bit*** - ${O(1)}$
 
 ```java
 // The negative number has all bits inverted and 1 added to them...
@@ -86,7 +86,7 @@ int bit = x & -x;   // The values left to rightmost 1 bit are complementary, to 
 
 ---
 
-10.***Multiply and Divide by n*** - O(1)
+10.***Multiply and Divide by n*** - ${O(1)}$
 
 ```java
 x = x << n;   // Multiply by n...
@@ -95,7 +95,7 @@ x = x >> n;   // Divide by n...
 
 ---
 
-11.***Check Bits Parity*** - O(log n)
+11.***Check Bits Parity*** - ${O(log n)}$
 
 ```java
 int parity = 0;      // Set parity bit to 0...
@@ -106,7 +106,7 @@ for(; num != 0; num = num >> 1)      // Reducing number by 2, till it becomes 0.
 
 ---
 
-12.***Reverse Bits*** - O(n)
+12.***Reverse Bits*** - ${O(n)}$
 
 ```java
 String reverse = "";      // String to store reverse number...
@@ -116,7 +116,7 @@ for(; num != 0; num = num >> 1)      // Extracting the LSB bits iteratively...
 
 ---
 
-13.***Update the Rightmost 0 bit*** - O(1)
+13.***Update the Rightmost 0 bit*** - ${O(1)}$
 
 ```java
 // x+1 changes the rightmost 0 bit to 1...
@@ -125,7 +125,7 @@ x = x | (x+1);      // Use OR operation to only update the rightmost bit...
 
 ---
 
-14.***Invert Bits*** - O(log n)
+14.***Invert Bits*** - ${O(log n)}$
 
 ```java
 x = ~x;   // Invert the bits...
@@ -133,7 +133,7 @@ x = ~x;   // Invert the bits...
 
 ---
 
-15.***Check If Alternating 1s and 0s***
+15.***Check If Alternating 1s and 0s*** - ${O(log n)}$
 
 ```java
 int parity = 1;      // Setting a parity checker bit...
@@ -144,6 +144,60 @@ for(; num != 0; num = num >> 1) {      // Extracting bits from LSB side...
 }
 return true;      // Return true, when entire number is checked...
 ```
+
+---
+
+16.***Get Subsets*** - ${O(2^n)}$
+
+```java
+int n = list.size();      // Getting size of the elements...
+for(int i = 0; i < Math.pow(2, n); i++) {      // There will be 2^n subsets...
+   int j = n, num = i;
+   for(; num != 0; num = num >> 1, j--)      // Selecting the LSB and its corresponding index...
+      if(num & 1)      // If the current bit is to be selected...
+         System.out.print(list.get(j-1)+" ");      // Perform the operation...
+   System.out.println();
+}
+```
+
+---
+
+17.***Increase*** - ${O(1)}$
+
+```java
+x = x + 1;      // Changes the rightmost 0 bit to 1...
+```
+
+---
+
+18.***From MSB to i clear all bits*** - ${O(1)}$
+
+```java
+// left shifting to reach the index and then doing -1 to get all right bits to 1...
+x = x & ((1 << i) - 1);   // Then use the AND operation, to clear the bits...
+```
+
+---
+
+19.***From LSB to i clear all bits*** - ${O(1)}$
+
+```java
+// Left shift to reach the index and then doing -1 to get all right bits to 1...
+x = x & ~((1 << i) - 1);   // Negating to get all left bits to 1 and right bits to 0...
+```
+
+---
+
+20.***Position of Lowest Set Bit*** - ${O(log n)}$
+
+```java
+int index = 0;
+for(; num != 0; num = num >> 1, index++)
+   if(num & 1)   break;
+```
+
+
+
 
 
 
