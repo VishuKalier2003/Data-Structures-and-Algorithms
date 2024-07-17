@@ -44,5 +44,11 @@ The table provides the Questions in well-sorted fashion for Hackerrank Platform.
 
 ----
 
+## ${\color{lightblue} Important \space Questions}$ 
+
+***Important Questions link can be found here - [Link](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/tree/main/Important)***
+
+----
+
 ## ${\color{lightblue} Maintained \space By}$
 ## ***Vishu Kalier***
