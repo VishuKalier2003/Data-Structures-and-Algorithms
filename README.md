@@ -54,7 +54,7 @@ The table provides the Questions in well-sorted fashion for Hackerrank Platform.
 
 | $${\color{red} S. \space No.}$$ | $${\color{red} Data \space Structure}$$ | $${\color{red} Concept}$$ |
 |-|-|-|
-| $${1.}$$ | $${\color{lightgreen} Bitmask}$$ | [Link] |
+| $${1.}$$ | $${\color{lightgreen} Bitmask}$$ | ***[Link](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Bit%20Manipulation/BitManipulationLogic.md)*** |
 | $${2.}$$ | $${\color{lightgreen} Graph}$$ | [Link] |
 
 
