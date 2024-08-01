@@ -15,6 +15,14 @@ This folder contains different important varieties of questions specific for eac
 
 ----
 
+### ${\color{lightblue} Dynamic \space Programming}$
+
+| $${\color{lightblue} Q. \space No.}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Link}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Similar}$$ | $${\color{lightblue} Coding\space Platform}$$ | $${\color{lightblue} Algorithm}$$ |
+|-|-|-|-|-|-|-|
+| ***53*** | ***Maximum Subarray*** | ***[53](https://leetcode.com/problems/maximum-subarray/description/)*** | ***[Hints](https://leetcode.com/problems/maximum-subarray/solutions/5331314/maximum-subarray-simplified-java/)*** | ***[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [152](https://leetcode.com/problems/maximum-product-subarray/), [697](https://leetcode.com/problems/degree-of-an-array/), [978](https://leetcode.com/problems/longest-turbulent-subarray/), [1749](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/), [2272](https://leetcode.com/problems/substring-with-largest-variance/), [2302](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/), [2321](https://leetcode.com/problems/maximum-score-of-spliced-array/), [2496](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/), [2600](https://leetcode.com/problems/k-items-with-the-maximum-sum/), [2606](https://leetcode.com/problems/find-the-substring-with-maximum-cost/), [3026](https://leetcode.com/problems/maximum-good-subarray-sum/)*** | <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GeeksForGeeks" width="30" />, <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png" alt="Drone" width="30" />, <img src="https://coursereport-production.imgix.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg?w=70&h=70&dpr=2&q=50" alt="CodingNinjas" width="30"> | ***Kadane*** |
+
+----
+
 ### ${\color{lightblue} Graph}$
 
 | $${\color{lightblue} Q. \space No.}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Link}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Similar}$$ | $${\color{lightblue} Coding\space Platform}$$ | $${\color{lightblue} Algorithm}$$ |
