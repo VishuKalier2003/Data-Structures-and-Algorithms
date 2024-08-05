@@ -1,4 +1,4 @@
-# $${\color{lightblue}Data \space Structures \space and \space Algorithms}$$
+# $${\color{lightblue}Data \space Structures \space and \space Algorithm \space Analysis}$$
 
 This Repository contains all the Necessary ***Data Structure Problems*** practiced and sorted out in a Sheet. The problems are taken and solved from the ***Leetcode*** website. The Details and domains of every solved problem is provided in the table below. It contains the questions with ***Hints*** and ***Links*** which will help a person to solve the problem.
 
