@@ -62,6 +62,13 @@ This folder contains different important varieties of questions specific for eac
 | ***834*** | ***Sum of Distances In Tree*** | ***[834](https://leetcode.com/problems/sum-of-distances-in-tree/description/)*** | ***[Hints](https://leetcode.com/problems/sum-of-distances-in-tree/solutions/5537330/sum-of-distances-in-tree-simplified-java/)*** | ***[997](https://leetcode.com/problems/distribute-coins-in-binary-tree/), [2049](https://leetcode.com/problems/count-nodes-with-the-highest-score/), [2603](https://leetcode.com/problems/collect-coins-in-a-tree/), [2925](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/), [3067](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/)*** | <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png" alt="Drone" width="30" /> | ***Re-Rooting DP*** |
 
 
+### ${\color{lightblue} Stack}$
+
+| $${\color{lightblue} Q. \space No.}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Link}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Similar}$$ | $${\color{lightblue} Coding\space Platform}$$ | $${\color{lightblue} Algorithm}$$ |
+|-|-|-|-|-|-|-|
+| ***735*** | ***Asteroid Collision*** | ***[735](https://leetcode.com/problems/asteroid-collision/description/)*** | ***[Hints](https://leetcode.com/problems/asteroid-collision/solutions/5784153/asteroid-collision-simplified-java/)*** | ***[605](https://leetcode.com/problems/can-place-flowers/), [2211](https://leetcode.com/problems/count-collisions-on-a-road/), [2751](https://leetcode.com/problems/robot-collisions/)*** | <img src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="GeeksForGeeks" width="30" />, <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png" alt="Drone" width="30" />, <img src="https://coursereport-production.imgix.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg?w=70&h=70&dpr=2&q=50" alt="CodingNinjas" width="30"> | ***Collisions*** |
+
+
 
 
 
