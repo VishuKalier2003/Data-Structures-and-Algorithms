@@ -1,6 +1,6 @@
 # $${\color{lightblue} Important \space Questions}$$
 
-This folder contains different important varieties of questions specific for each Data Structure. This folder can be used to improve versatility as per each topic and Data Structure. The Questions are taken from Leetcode, GFG and other coding platforms.
+This folder contains different important varieties of questions specific for each Data Structure. This folder can be used to improve versatility as per each topic and Data Structure. The Questions are taken from Leetcode, Geeks for Geeks and other coding platforms.
 
 -----
 
