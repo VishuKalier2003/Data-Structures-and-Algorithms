@@ -13,7 +13,15 @@ This folder contains different important varieties of questions specific for eac
 | ***199*** | ***Binary Tree Right View*** | ***[199](https://leetcode.com/problems/binary-tree-right-side-view/description/)*** | ***[Hints](https://leetcode.com/problems/binary-tree-right-side-view/solutions/5554468/binary-tree-right-view-simplified-java/)*** | ***[116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/), [221](https://www.naukri.com/code360/problems/left-view-of-a-binary-tree_920519?interviewProblemRedirection=true&practice_topic%5B%5D=Binary%2520Trees&sort_entity=company_count&sort_order=DESC&count=25&page=1&search=&leftPanelTabValue=PROBLEM), [347](https://www.naukri.com/code360/problems/top-view-of-the-tree_799401?interviewProblemRedirection=true&practice_topic%5B%5D=Binary%2520Trees&sort_entity=company_count&sort_order=DESC&count=25&page=1&search=Top&leftPanelTabValue=PROBLEM&customSource=studio_nav), [419](https://www.naukri.com/code360/problems/bottom-view-of-binary-tree_893110?interviewProblemRedirection=true&practice_topic%5B%5D=Binary%2520Trees&sort_entity=company_count&sort_order=DESC&count=25&page=1&search=Bottom&leftPanelTabValue=PROBLEM&customSource=studio_nav)*** | ***Tree Views*** |
 | ***111*** | ***Minimum Depth of Binary Tree*** | ***[111](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)*** | ***[Hints](https://leetcode.com/problems/minimum-depth-of-binary-tree/solutions/5554777/minimum-depth-of-binary-tree-simplified-java/)*** | ***[102](https://leetcode.com/problems/binary-tree-level-order-traversal/), [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/), [543](https://leetcode.com/problems/diameter-of-binary-tree/description/), [549](https://www.naukri.com/code360/problems/replace-node-with-depth_794947?interviewProblemRedirection=true&search=depth&practice_topic%5B%5D=Binary%2520Trees&sort_entity=company_count&sort_order=DESC&count=25&page=1&leftPanelTabValue=PROBLEM&customSource=studio_nav), [659](https://www.naukri.com/code360/problems/list-of-depths_1229511?interviewProblemRedirection=true&search=depth&practice_topic%5B%5D=Binary%2520Trees&sort_entity=company_count&sort_order=DESC&count=25&page=1&leftPanelTabValue=PROBLEM&customSource=studio_nav)*** | ***Depth and Diameter*** |
 
-----
+-----
+
+### ${\color{lightblue} Binary \space Tree}$
+
+| $${\color{lightblue} Q. \space No.}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Link}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Similar}$$ | $${\color{lightblue} Algorithm}$$ |
+|-|-|-|-|-|-|
+| ***698*** | ***Partition to K Equal Sum Subsets*** | ***[698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)*** | ***[Hints](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/solutions/5898036/partition-to-k-equal-sum-subsets-simplified-java/)*** | ***[416](https://leetcode.com/problems/partition-equal-subset-sum/), [2025](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/), [2305](https://leetcode.com/problems/fair-distribution-of-cookies/), [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/)*** | ***Bitmask, Backtracking, Subsequence*** |
+
+-----
 
 ### ${\color{lightblue} Dynamic \space Programming}$
 
