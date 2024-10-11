@@ -15,11 +15,11 @@ This folder contains different important varieties of questions specific for eac
 
 -----
 
-### ${\color{lightblue} Binary \space Tree}$
+### ${\color{lightblue} Bit \space Manipulation \space and \space Masking}$
 
 | $${\color{lightblue} Q. \space No.}$$ | $${\color{lightblue} Problem}$$ | $${\color{lightblue} Link}$$ | $${\color{lightblue} Hints}$$ | $${\color{lightblue} Similar}$$ | $${\color{lightblue} Algorithm}$$ |
 |-|-|-|-|-|-|
-| ***698*** | ***Partition to K Equal Sum Subsets*** | ***[698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)*** | ***[Hints](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/solutions/5898036/partition-to-k-equal-sum-subsets-simplified-java/)*** | ***[416](https://leetcode.com/problems/partition-equal-subset-sum/), [2025](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/), [2305](https://leetcode.com/problems/fair-distribution-of-cookies/), [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/)*** | ***Bitmask, Backtracking, Subsequence*** |
+| ***698*** | ***Partition to K Equal Sum Subsets*** | ***[698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)*** | ***[Hints](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/solutions/5898036/partition-to-k-equal-sum-subsets-simplified-java/)*** | ***[416](https://leetcode.com/problems/partition-equal-subset-sum/), [473](https://leetcode.com/problems/matchsticks-to-square/description/) [2025](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/), [2305](https://leetcode.com/problems/fair-distribution-of-cookies/), [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/)*** | ***Bitmask, Backtracking, Subsequence*** |
 
 -----
 
