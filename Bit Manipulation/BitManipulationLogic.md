@@ -4,7 +4,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ### ${\color{lightblue} Techniques}$
 
-#### ${\color{lightblue} Formulae}$
+## ${\color{lightblue} Formulae}$
 
 1. ***Setting the i-th bit to 1*** - ${O(1)}$
    
@@ -101,7 +101,7 @@ x = x >> n;   // Divide by n...
 
 ---
 
-12.***Finding index of LSB and MSB*** - ${O(1)$
+12.***Finding index of LSB and MSB*** - ${O(1)}$
 
 ```java
 int lsb = (int)(Math.log(x & -x)/Math.log(2));   // Find lsb and take its log base 2 value...
@@ -134,7 +134,7 @@ boolean opposite = (x ^ y) < 0;
 
 ---
 
-#### ${\color{lightblue} Algorithm \space use}$
+## ${\color{lightblue} Algorithms}$
 
 1.***Check Bits Parity*** - ${O(log n)}$
 
