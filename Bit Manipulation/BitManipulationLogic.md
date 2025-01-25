@@ -4,6 +4,8 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ### ${\color{lightblue} Techniques}$
 
+#### ${\color{lighblue} Formulae}$
+
 1. ***Setting the i-th bit to 1*** - ${O(1)}$
    
    ```java
@@ -43,9 +45,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 5. ***Count number of 1's bit in binary representation*** - ${O(log n)}$
 
    ```java
-   int count = 0;    // Variable to store count...
-   for(; num != 0; num = num >> 1)    // We shift right, divide number by 2 until number becomes 0...
-     count += (num & 1) ? 1 : 0;    // If the bit is 1, then increase the count...
+   int count = Integer.bitCount(x);    // In-built function to count the number of bits to 1...
    ```
 
 ---
@@ -77,16 +77,22 @@ x = x & (x-1);      // Then use AND operation to terminate the rightmost bit...
 
 ---
 
-9.***Extract Rightmost 1 bit*** - ${O(1)}$
+9.***Extract LSB (Least Significant Bit)*** - ${O(1)}$
 
 ```java
 // The negative number has all bits inverted and 1 added to them...
 int bit = x & -x;   // The values left to rightmost 1 bit are complementary, to set 0 use AND...
 ```
 
+10.***Extract MSB (Most Significant Bit)*** - ${O(1)}$
+
+```java
+int bit = Integer.highestOneBit(x);      // Java in-built function...
+```
+
 ---
 
-10.***Multiply and Divide by n*** - ${O(1)}$
+11.***Multiply and Divide by n*** - ${O(1)}$
 
 ```java
 x = x << n;   // Multiply by n...
@@ -95,32 +101,19 @@ x = x >> n;   // Divide by n...
 
 ---
 
-11.***Check Bits Parity*** - ${O(log n)}$
+12.***Finding index of LSB and MSB*** - ${O(1)$
 
 ```java
-int parity = 0;      // Set parity bit to 0...
-for(; num != 0; num = num >> 1)      // Reducing number by 2, till it becomes 0...
-   if(num & 1)      // If the LSB is 1...
-      parity = ~parity;      // Invert the parity, 0 for odd and 1 for even...
+int lsb = (int)(Math.log(x & -x)/Math.log(2));   // Find lsb and take its log base 2 value...
+int msb = (int)(Math.log(Integer.highestOneBit(x)/Math.log(2));      // Find msb and take its log base 2 value...
 ```
 
 ---
 
-12.***Reverse Bits*** - ${O(n)}$
+13.***Reverse Bits*** - ${O(n)}$
 
 ```java
-String reverse = "";      // String to store reverse number...
-for(; num != 0; num = num >> 1)      // Extracting the LSB bits iteratively...
-   reverse = reverse + (num & 1);      // Extract the LSB and it to the number...
-```
-
----
-
-13.***Update the Rightmost 0 bit*** - ${O(1)}$
-
-```java
-// x+1 changes the rightmost 0 bit to 1...
-x = x | (x+1);      // Use OR operation to only update the rightmost bit...
+int newX = Integer.reverse(x);      // In-built reverse function...
 ```
 
 ---
@@ -133,7 +126,28 @@ x = ~x;   // Invert the bits...
 
 ---
 
-15.***Check If Alternating 1s and 0s*** - ${O(log n)}$
+15.***Check if Two Numbers have opposite sign*** - ${O(1)}$
+
+```java
+boolean opposite = (x ^ y) < 0;
+```
+
+---
+
+#### {\color{lightblue} Algorithm \space use}$
+
+1.***Check Bits Parity*** - ${O(log n)}$
+
+```java
+int parity = 0;      // Set parity bit to 0...
+for(; num != 0; num = num >> 1)      // Reducing number by 2, till it becomes 0...
+   if(num & 1)      // If the LSB is 1...
+      parity = ~parity;      // Invert the parity, 0 for odd and 1 for even...
+```
+
+---
+
+2.***Check If Alternating 1s and 0s*** - ${O(log n)}$
 
 ```java
 int parity = 1;      // Setting a parity checker bit...
@@ -147,7 +161,7 @@ return true;      // Return true, when entire number is checked...
 
 ---
 
-16.***Get Subsets*** - ${O(2^n)}$
+3.***Get Subsets*** - ${O(2^n)}$
 
 ```java
 int n = list.size();      // Getting size of the elements...
@@ -162,61 +176,7 @@ for(int i = 0; i < Math.pow(2, n); i++) {      // There will be 2^n subsets...
 
 ---
 
-17.***Increase*** - ${O(1)}$
-
-```java
-x = x + 1;      // Changes the rightmost 0 bit to 1...
-```
-
----
-
-18.***From MSB to i clear all bits*** - ${O(1)}$
-
-```java
-// left shifting to reach the index and then doing -1 to get all right bits to 1...
-x = x & ((1 << i) - 1);   // Then use the AND operation, to clear the bits...
-```
-
----
-
-19.***From LSB to i clear all bits*** - ${O(1)}$
-
-```java
-// Left shift to reach the index and then doing -1 to get all right bits to 1...
-x = x & ~((1 << i) - 1);   // Negating to get all left bits to 1 and right bits to 0...
-```
-
----
-
-20.***Position of Lowest Set Bit*** - ${O(log n)}$
-
-```java
-int index = 0;
-for(; num != 0; num = num >> 1, index++)
-   if(num & 1)   break;
-```
-
----
-
-21.***Check if Two Numbers have opposite sign*** - ${O(1)}$
-
-```java
-boolean opposite = (x ^ y) < 0;
-```
-
----
-
-22.***Count Trailing Zeros*** - ${O(log n)}$
-
-```java
-int count = 0;   // variable to store count...
-for(; num != 0 && ~(num & 1); num = num >> 1, count++);
-// Counting number of 0s from the right...
-```
-
----
-
-23.***Rotate Bits to Left*** - ${O(log n)}$
+4.***Rotate Bits to Left*** - ${O(log n)}$
 
 ```java
 // Shift x by n bits left, and right shift it...
@@ -225,30 +185,13 @@ x = (x << n) | (x >> (32 - n));
 
 ---
 
-24.***Rotate Bits to Right*** - ${O(log n)}$
+5.***Rotate Bits to Right*** - ${O(log n)}$
 
 ```java
 // Shift x by n bits right, and left shift it...
 x = (x >> n) | (x << (32 - n));
 ```
 
----
-
-25.***Get LSB n bits*** - ${O(1)}$
-
-```java
-int mask = (1 << n) - 1;   // Left Shift and subtract to set all LSB n bits to 1...
-int result = x & mask;      // Then extract the mask using AND...
-```
-
----
-
-26.***Get all except LSB n bits*** - ${O(1)}$
-
-```java
-int mask = ~((1 << n) - 1);   // Left Shifting and reversing to reverse the order...
-int result = x & mask;      // Then extract the mask using AND...
-```
 
    
 
