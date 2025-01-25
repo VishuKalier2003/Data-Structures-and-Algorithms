@@ -192,6 +192,15 @@ x = (x << n) | (x >> (32 - n));
 x = (x >> n) | (x << (32 - n));
 ```
 
+---
+
+6.***Extracting Lowest i bits of a number*** - ${O(log n)}$
+
+```java
+int bitset = x & ((int)(Math.pow(2, i)-1);      // Gives the same value as
+int bitset = x MOD (int)(Math.pow(2, i));      // Getting last i bits for a number (efficient bitmasking algorithm)
+```
+
 
    
 
