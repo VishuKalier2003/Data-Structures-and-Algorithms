@@ -4,7 +4,7 @@ Here the concepts freqently being used in Bit Manipulation will be covered here,
 
 ### ${\color{lightblue} Techniques}$
 
-#### ${\color{lighblue} Formulae}$
+#### ${\color{lightblue} Formulae}$
 
 1. ***Setting the i-th bit to 1*** - ${O(1)}$
    
@@ -134,7 +134,7 @@ boolean opposite = (x ^ y) < 0;
 
 ---
 
-#### {\color{lightblue} Algorithm \space use}$
+#### ${\color{lightblue} Algorithm \space use}$
 
 1.***Check Bits Parity*** - ${O(log n)}$
 
