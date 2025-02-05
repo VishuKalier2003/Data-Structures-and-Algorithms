@@ -2,6 +2,10 @@
 
 This Repository contains all the Necessary ***Data Structure Problems*** practiced and sorted out in a Sheet. The problems are taken and solved from the ***Leetcode*** website. The Details and domains of every solved problem is provided in the table below. It contains the questions with ***Hints*** and ***Links*** which will help a person to solve the problem.
 
+## ${\color{lightblue} Important \space Data \space Structure \space Algorithms}$
+
+Algorithms Link available in the folder here - [link](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/readme.md)
+
 ----
 
 ## ${\color{lightblue} Folder \space Table \space LeetCode}$
