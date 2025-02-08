@@ -17,8 +17,6 @@ This folder contains all the important algorithms sorted out by the type of Data
 | ***7.*** | ${\color{lightgreen} Krushkal}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/Krushkal.java) | Find the number of Components in a Graph using Disjoint Set Union (DSU) | ${O(n)}$ | ${O(n)}$ |
 | ***8.*** | ${\color{lightgreen} Tarjan}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/Tarjan.java) | Evaluate and store the Strongly Connected Components or the Articulation points | ${O(n)}$ | ${O(stack)}$ |
 
----
-
 #### ${\color{lightblue} Number \space Theory}$
 
 | ${\color{red}No.}$ | ${\color{red}Algorithm}$ | ${\color{red}Code}$ | ${\color{red}Mainly \space used}$ | ${\color{red} Time}$ | ${\color{red} Space}$ |
@@ -31,8 +29,6 @@ This folder contains all the important algorithms sorted out by the type of Data
 | ***6.*** | ${\color{lightgreen} Matrix \space Exponentiation}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/MatrixExponent.java) | Matrix Chain Multiplication (MCM) used in Linear and Combinatorial DP | ${O(log \space n)}$ | ${O(n)}$ |
 | ***7.*** | ${\color{lightgreen} Combinatorics}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/Combinatorics.java) | Evaluating Permutation and Combination of value using Fernet's Theorem | ${O(n)}$ | ${O(n)}$ |
 
----
-
 #### ${\color{lightblue} Binary \space Tree}$
 
 | ${\color{red}No.}$ | ${\color{red}Algorithm}$ | ${\color{red}Code}$ | ${\color{red}Mainly \space used}$ | ${\color{red} Time}$ | ${\color{red} Space}$ |
@@ -43,8 +39,6 @@ This folder contains all the important algorithms sorted out by the type of Data
 | ***4.*** | ${\color{lightgreen} LCA \space of \space K \space nodes}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/LCA.java) | Lowest Common Ancestor (LCA) of any k nodes by passing postorder bits in a map | ${O(nk)}$ | ${O(n)}$ |
 | ***5.*** | ${\color{lightgreen} Tree \space Mapping \space Algorithm}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/TreeMapping.java) | Converting tree into an undirected Minimum Spanning Tree (MST) | ${O(n)}$ | ${O(n)}$ |
 | ***6.*** | ${\color{lightgreen} Vertical \space Paths}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/Vertical.java) | Passing and grouping tree nodes on the basis of their y coordinates | ${O(n)}$ | ${O(log \space n)}$ |
-
----
 
 #### ${\color{lightblue} Segment \space Tree}$
 
