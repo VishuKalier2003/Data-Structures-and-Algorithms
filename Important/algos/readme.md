@@ -37,10 +37,20 @@ This folder contains all the important algorithms sorted out by the type of Data
 
 | ${\color{red}No.}$ | ${\color{red}Algorithm}$ | ${\color{red}Code}$ | ${\color{red}Mainly \space used}$ | ${\color{red} Time}$ | ${\color{red} Space}$ |
 |-|-|-|-|-|-|
-| ***1.*** | ${\color{lightgreen} Breadth \space First \space Search}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/BFS.java) | Traverses the tree in level wise fashion using queus | ${O(n)}$ | ${O(n)}$ |
+| ***1.*** | ${\color{lightgreen} Breadth \space First \space Search}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/BFS.java) | Traverses the tree in level wise fashion using queue | ${O(n)}$ | ${O(n)}$ |
 | ***2.*** | ${\color{lightgreen} Depth \space First \space Search}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/DFS.java) | Traverses the tree in depth wise manner usng recursion and stack | ${O(n)}$ | ${O(n)}$ |
 | ***3.*** | ${\color{lightgreen} Global \space Data \space Pass}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/GlobalTreePass.java) | Passing any data globally across the entire tree in a single pass | ${O(n)}$ | ${O(1)}$ |
 | ***4.*** | ${\color{lightgreen} LCA \space of \space K \space nodes}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/LCA.java) | Lowest Common Ancestor (LCA) of any k nodes by passing postorder bits in a map | ${O(nk)}$ | ${O(n)}$ |
 | ***5.*** | ${\color{lightgreen} Tree \space Mapping \space Algorithm}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/TreeMapping.java) | Converting tree into an undirected Minimum Spanning Tree (MST) | ${O(n)}$ | ${O(n)}$ |
 | ***6.*** | ${\color{lightgreen} Vertical \space Paths}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/Vertical.java) | Passing and grouping tree nodes on the basis of their y coordinates | ${O(n)}$ | ${O(log \space n)}$ |
+
+---
+
+#### ${\color{lightblue} Segment \space Tree}$
+
+| ${\color{red}No.}$ | ${\color{red}Algorithm}$ | ${\color{red}Code}$ | ${\color{red}Mainly \space used}$ | ${\color{red} Time}$ | ${\color{red} Space}$ |
+|-|-|-|-|-|-|
+| ***1.*** | ${\color{lightgreen} Array \space based \space Segment \space Tree}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/SegmentFromArray.java) | Generating an array based segment tree for k range queries | ${O(k \space log \space n)}$ | ${O(4n)}$ |
+| ***2.*** | ${\color{lightgreen} Node \space based \space Segment \space Tree}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/SegmentFromTree.java) | Generating an node based segment tree for k range queries | ${O(k \space log \space n)}$ | ${O(n)}$ |
+| ***3.*** | ${\color{lightgreen} Lazy \space Update}$ | [Code](https://github.com/VishuKalier2003/Data-Structures-and-Algorithms/blob/main/Important/algos/LazySegmentTree.java) | Performs updation to the segment nodes only when needed saving large computations | ${O(k \space log \space n)}$ | ${O(n)}$ |
 
