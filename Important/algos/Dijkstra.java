@@ -47,8 +47,8 @@ public class Dijkstra {
     public static void dijkstraAlgorithm(Map<Integer, List<int[]>> graph) {
         int distance[] = new int[graph.size()+1];       // Create a distance array of size +1
         Arrays.fill(distance, Integer.MAX_VALUE);
-        // Create min Heap of property where the smaller element of 1st index(b) (0 indexing) are given priority
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> Integer.compare(b[0], a[0]));
+        // Create min Heap of property where the smaller element (smallest distance, stored in 1st index) due to (a,b) as ascending order
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> Integer.compare(a[1], b[1]));
         distance[1] = 0;
         minHeap.add(new int[]{1, 0});   // First param as node, second param as weight
         while(!minHeap.isEmpty()) {
